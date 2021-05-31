@@ -7,6 +7,8 @@ A collection of documentation highlighting quirks around the file formatting for
 * Usage
   * File formats
   * Citation and reference managers
+  * Search Engines
+  * Systematic Review software
   * Compatibility
 * Contributing
 * Credits
