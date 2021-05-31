@@ -41,7 +41,7 @@ Guide for using the table:
  | Software                | **.ris**  | **.tsv** | **.csv** | **.xlsx**|
  | --- | --- | --- | --- | --- |
  |                         |           |          |          |          |
- | **ASReview**\*          | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
+ | **ASReview**\*          | :red_square: | :green_square: | :green_square: | :green_square: |
  | **Abstrackr**           | :green_square::red_square:   | :green_square::green_square: | :green_square::red_square:   | :green_square::red_square:   |
  | **Covidence**\*         | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
  | **Distiller**           | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
