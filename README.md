@@ -9,7 +9,7 @@ A collection of documentation highlighting quirks around the file formatting for
   * Citation and reference managers
   * Search Engines
   * Systematic Review software
-  * Compatibility
+  * [Compatibility](#compatibility)
 * Contributing
 * Credits
 * License
