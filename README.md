@@ -30,11 +30,9 @@ Below, you can find a table outlining import/export capabilities of previously d
 
 Guide for using the table:
 * Search for the software (e.g **ASReview**) you are interested in;
-* Follow the line right, until you find the file format(e.g **.ris**) you are interested in;
+* Follow the line, until you find the file format(e.g **.ris**) you are interested in;
 * Within the file format field, *Import from ...* is indicated on the left side, *Export to ...* on the right side;
-* :green_square: indicates success
-* :red_square: indicates failure
-
+* :green_square: indicates success and :red_square: indicates failure;
 
 > Example: :green_square::red_square:
 > 
@@ -43,6 +41,7 @@ Guide for using the table:
  | Software                | **.ris**  | **.tsv** | **.csv** | **.xlsx**|
  | --- | --- | --- | --- | --- |
  |                         |           |          |          |          |
+ | **ASReview**\*          | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
  | **Abstrackr**           | :green_square::red_square:   | :green_square::green_square: | :green_square::red_square:   | :green_square::red_square:   |
  | **Covidence**\*         | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
  | **Distiller**           | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
