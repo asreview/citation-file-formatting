@@ -25,6 +25,20 @@ Describe the rile formats and the software.
 
 Describe the relations between formats and software.
 
+| Software |  |
+| --- | --- |
+ |                         | **.ris**  | **.tsv** | **.csv** | **.xlsx**|
+ |                         |           |          |          |          |
+ | **Abstrackr**           | ✅        | N/A      | ✅      | N/A       |
+ | **Covidence**\*         | ✅        | N/A      | ✅      | N/A       |
+ | **Distiller**           | X         | N/A      | ✅\**   | ✅\**     |
+ |**EPPI-reviewer**        | ✅        | N/A      | N/A     | X         |
+ | **Rayyan**              | ✅        | N/A      | ✅      | N/A       |
+ |**Robotreviewer**        | N/A       | N/A      | N/A      | N/A      |
+ |**Swift Active Screener**| X         | X        |          |          |
+ |**Sysrev**               | X         | X        |          |          |
+ |**SR accelerator**       | X         | X        |          |          |
+
 ## Contributing
 Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
 
