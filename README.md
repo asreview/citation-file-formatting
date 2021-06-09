@@ -30,26 +30,29 @@ Below, most commonly used file formats in dealing with systematic review are des
 #### CSV
 A comma-separated values (CSV) file is a delimited text file that uses a comma to separate values. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format. A CSV file typically stores tabular data (numbers and text) in plain text, in which case each line will have the same number of fields.
 
-**The CSV file format is not fully standardized.**
+*The CSV file format is not fully standardized.*
 Learn more about [CSV at Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values).
 
 #### RIS
 RIS is a standardized tag format developed by Research Information Systems, Incorporated (the format name refers to the company) to enable citation programs to exchange data. The RIS file format — two letters, two spaces and a hyphen — is a tagged format for expressing bibliographic citations. According to the specifications, the lines must end with the ASCII carriage return and line feed characters. Multiple citation records can be present in a single RIS file. A record ends with an "end record" tag ER - with no additional blank lines between records.
 
-**The RIS file format is standardized but sometimes improperly implemented.**
+*The RIS file format is standardized but sometimes improperly implemented.*
+
 Learn more about [RIS at Wikipedia](https://en.wikipedia.org/wiki/RIS_(file_format)).
 
 #### TSV
 A tab-separated values (TSV) file is a simple text format for storing data in a tabular structure, e.g., a database table or spreadsheet data, and a way of exchanging information between databases. Each record in the table is one line of the text file. Each field value of a record is separated from the next by a tab character. The TSV format is thus a type of the more general delimiter-separated values format.
 TSV is an alternative to the common comma-separated values (CSV) format, which often causes difficulties because of the need to escape commas – literal commas are very common in text data, but literal tab stops are infrequent in running text. The IANA standard for TSV achieves simplicity by simply disallowing tabs within fields.
 
-**The TSV file format is not fully standardized.**
+*The TSV file format is not fully standardized.*
+
 Learn more about [TSV at Wikipedia](https://en.wikipedia.org/wiki/Tab-separated_values).
 
 #### XLSX
 The Office Open XML Workbook (XLSX) file is part of a set of file formats that can be used to represent electronic office documents. While this specific format is dedicated to spreadsheets, there are other formats dedicated for word processing documents, presentations as well as specific formats for material such as mathematical formulae, graphics, bibliographies etc.
 
-**The XLSX file format is standardized.**
+*The XLSX file format is standardized.*
+
 Learn more about [XLSX at Wikipedia](https://en.wikipedia.org/wiki/Office_Open_XML).
 
 ### Citation and Reference Managers
