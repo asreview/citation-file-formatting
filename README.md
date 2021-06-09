@@ -9,20 +9,19 @@ A collection of documentation highlighting quirks around the file formatting for
   * [Search Engines](#search-engines)
   * [Systematic Review Software](#systematic-review-software)
 * [Compatibility](#compatibility)
+  * [Supported Formats Per Software](#supported-formats-per-software)
+  * [Systematic Review Workflow (Example)](#systematic-review-workflow-(example))
 * [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
 
 ## Introduction
-//Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
-Also, introduction.//
-
 There are many software solutions and tools that allow you to manage your scientific work. Often times, you need to use multiple solutions to cover your whole workflow. This is where things get interesting but also confusing. Some tools just do not work well with others.
 
 In this open repository, we have tried to simplify the process of setting up a scientific workflow for research. We have described the interrelations between popular citation and reference managers, search engines and systematic review software.
 
 ## Usage
-//The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.//
+This project is meant to serve as a guide in the field of scientific research, namely dealing with systematic reviews and related software solutions. Or you can check it out for inspiration and learning about said software!
 
 ### File Formats
 Below, most commonly used file formats in dealing with systematic review are described.
@@ -31,6 +30,7 @@ Below, most commonly used file formats in dealing with systematic review are des
 A comma-separated values (CSV) file is a delimited text file that uses a comma to separate values. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format. A CSV file typically stores tabular data (numbers and text) in plain text, in which case each line will have the same number of fields.
 
 *The CSV file format is not fully standardized.*
+
 Learn more about [CSV at Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values).
 
 #### RIS
@@ -90,6 +90,9 @@ Describe the relations between formats and software.
 Describe open/closed source?
 
 ### Compatibility
+Below, the software and tools have been described from the user's perspective, namely concerning the whole workflow of systematic review. This workflow usually consists of using multiple solutions and tools which have to work together but often do not or do barely so. The compatibility matrices should give you a better idea what works and what doesn't.
+
+#### Supported Formats Per Software
 Below, you can find a table outlining import/export capabilities of previously described software. Namely, different file formats commonly used within the field of scientific referencing are described.
 
 Guide for using the table:
@@ -115,6 +118,14 @@ Guide for using the table:
  |**Swift Active Screener**| :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
  |**Sysrev**               | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
  |**SR accelerator**       | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
+
+#### Systematic Review Workflow (Example)
+Below, an example workflow pipeline has been described from the perspective of ASRevie
+
+ | Input From ... | >   | >   | >   | >    | ASReview | >   | >   | >   | >    | Output To ...|
+ |                | CSV | RIS | TSV | XLSX |          | CSV | RIS | TSV | XLSX |              |
+ | --- | --- | --- | --- | ---  | --- | --- | --- | --- | ---  | --- |
+ | Endnote        |:green_square:|:green_square:|:green_square:|:green_square:|:gray_circle:|:green_square:|:gray_square:|:green_square:|:green_square:| Endnote |
 
 ## Contributing
 //Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.//
