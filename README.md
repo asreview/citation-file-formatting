@@ -1,7 +1,6 @@
 # Citation File Formatting
 A collection of documentation highlighting quirks around the file formatting for citation and reference managers.
 
-
 ## Table of Contents
 * Installation
 * Usage
@@ -14,9 +13,13 @@ A collection of documentation highlighting quirks around the file formatting for
 * Credits
 * License
 
-## Installation
+## Introduction
 Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 Also, introduction.
+
+There are many software solutions and tools that allow you to manage your scientific work. Often times, you need to use multiple solutions to cover your whole workflow. This is where things get interesting but also confusing. Some tools just do not work well with others.
+
+In this open repository, we have tried to simplify the process of setting up a scientific workflow for research. We have described the interrelations between citation and reference managers, search engines and systematic review software.
 
 ## Usage
 The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
