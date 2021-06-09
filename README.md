@@ -2,7 +2,7 @@
 A collection of documentation highlighting quirks around the file formatting for citation and reference managers.
 
 ## Table of Contents
-* [Installation](#installation)
+* [Introduction](#introduction)
 * [Usage](#usage)
   * [File Formats](#file-formats)
   * [Citation and Reference Managers](#citation-and-reference-managers)
