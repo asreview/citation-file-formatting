@@ -4,10 +4,10 @@ A collection of documentation highlighting quirks around the file formatting for
 ## Table of Contents
 * [Installation]
 * [Usage]
-  * [File Formats](#file formats)
-  * [Citation and Reference Managers](#citation and reference managers)
-  * [Search Engines](#search engines)
-  * [Systematic Review software](#systematic review software)
+  * [File Formats](#file-formats)
+  * [Citation and Reference Managers](#citation-and-reference-managers)
+  * [Search Engines](#search-engines)
+  * [Systematic Review software](#systematic-review-software)
 * [Compatibility](#compatibility)
 * [Contributing](#contributing)
 * [Credits](#credits)
