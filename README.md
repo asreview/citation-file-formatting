@@ -2,16 +2,16 @@
 A collection of documentation highlighting quirks around the file formatting for citation and reference managers.
 
 ## Table of Contents
-* Installation
-* Usage
-  * File formats
-  * Citation and reference managers
-  * Search Engines
-  * Systematic Review software
-  * [Compatibility](#compatibility)
-* Contributing
-* Credits
-* License
+* [Installation]
+* [Usage]
+  * [File Formats](#file formats)
+  * [Citation and Reference Managers](#citation and reference managers)
+  * [Search Engines](#search engines)
+  * [Systematic Review software](#systematic review software)
+* [Compatibility](#compatibility)
+* [Contributing](#contributing)
+* [Credits](#credits)
+* [License](#license)
 
 ## Introduction
 //Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
@@ -24,8 +24,11 @@ In this open repository, we have tried to simplify the process of setting up a s
 ## Usage
 //The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.//
 
+### File Formats
+### Citation and Reference Managers
+### Search Engines
+### Systematic Review software
 Describe the file formats and the software.
-
 Describe the relations between formats and software.
 
 ### Compatibility
