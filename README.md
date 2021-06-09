@@ -56,7 +56,25 @@ The Office Open XML Workbook (XLSX) file is part of a set of file formats that c
 Learn more about [XLSX at Wikipedia](https://en.wikipedia.org/wiki/Office_Open_XML).
 
 ### Citation and Reference Managers
+Below, most commonly used citation and reference managers are listed.
+
+- [Endnote](https://endnote.com)
+- [Mendeley](https://www.mendeley.com)
+- [Refworks](https://www.refworks.com/)
+- [Zotero](https://www.zotero.org)
+
 ### Search Engines
+Below, most commonly used search engines are listed.
+
+- [CINAHL Database](https://guides.library.uab.edu/CINAHL)
+- [Cochrane](https://www.cochrane.org/search/)
+- [Embase](https://www.embase.com)
+- [ERIC Ovid®](https://www.wolterskluwer.com/en/solutions/ovid/85)
+- [Psycinfo Ovid®](https://www.wolterskluwer.com/en/solutions/ovid/139)
+- [Pubmed](https://pubmed.ncbi.nlm.nih.gov)
+- [Scopus](https://www.scopusjournals.com)
+- [Web of Science](https://apps.webofknowledge.com/)
+
 ### Systematic Review software
 Describe the file formats and the software.
 Describe the relations between formats and software.
