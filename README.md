@@ -57,7 +57,6 @@ Learn more about [XLSX at Wikipedia](https://en.wikipedia.org/wiki/Office_Open_X
 
 ### Citation and Reference Managers
 Below, most commonly used citation and reference managers are listed.
-
 - [Endnote](https://endnote.com)
 - [Mendeley](https://www.mendeley.com)
 - [Refworks](https://www.refworks.com/)
@@ -65,19 +64,30 @@ Below, most commonly used citation and reference managers are listed.
 
 ### Search Engines
 Below, most commonly used search engines are listed.
-
 - [CINAHL Database](https://guides.library.uab.edu/CINAHL)
 - [Cochrane](https://www.cochrane.org/search/)
 - [Embase](https://www.embase.com)
+- [Google Scholar](https://scholar.google.com)
+- [Google Scholar Button for Chrome](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn)
 - [ERIC Ovid®](https://www.wolterskluwer.com/en/solutions/ovid/85)
 - [Psycinfo Ovid®](https://www.wolterskluwer.com/en/solutions/ovid/139)
 - [Pubmed](https://pubmed.ncbi.nlm.nih.gov)
+- [ResearchGate](https://researcgate.net)
 - [Scopus](https://www.scopusjournals.com)
 - [Web of Science](https://apps.webofknowledge.com/)
 
 ### Systematic Review software
-Describe the file formats and the software.
+Below, most commonly used search engines are listed.
+- [abstrackr](http://abstrackr.cebm.brown.edu/account/login)
+- [ASReview](https://asreview.nl)
+- [Covidence](https://www.covidence.org)
+- [DistillerSR](https://www.evidencepartners.com/products/distillersr-systematic-review-software)
+- [Eppi-Reviewer](http://eppi.ioe.ac.uk/cms/Default.aspx?alias=eppi.ioe.ac.uk/cms/er4)
+- [Rayyan](https://www.rayyan.ai)
+- [RobotReviewer](https://www.robotreviewer.net)
+
 Describe the relations between formats and software.
+Describe open/closed source?
 
 ### Compatibility
 Below, you can find a table outlining import/export capabilities of previously described software. Namely, different file formats commonly used within the field of scientific referencing are described.
