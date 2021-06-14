@@ -23,7 +23,7 @@ Below, you can find a list of files which has been exported from a specific tool
 
 | Format | ASReview | ... | 
 | --- | --- | --- |
-| CSV | [asreview.csv | |
+| CSV | asreview.csv | |
 | RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
 | TSV | asreview.tsv | |
 | XLSX | asreview.xlsx | |
@@ -33,7 +33,7 @@ It is difficult to represent specific import capabilities of a given software fr
 
 | Format | ASReview | ... | 
 | --- | --- | --- |
-| CSV | [asreview.csv | |
+| CSV | asreview.csv | |
 | RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
 | TSV | asreview.tsv | |
 | XLSX | asreview.xlsx | |
