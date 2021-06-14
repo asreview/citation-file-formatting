@@ -24,7 +24,7 @@ Below, you can find a list of files which has been exported from a specific tool
 | Format | ASReview | ... | 
 | --- | --- | --- |
 | CSV | asreview.csv | |
-| RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
+| RIS | WORK IN PROGRESS | |
 | TSV | asreview.tsv | |
 | XLSX | asreview.xlsx | |
 
