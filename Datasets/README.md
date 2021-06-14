@@ -19,7 +19,7 @@ Below, you can find the baseline files which should represent the file as close 
 | XLSX | [_baseline.xlsx](CSV/_baseline.xlsx) |
 
 ## Exporting
-Below, you can find a list of files which has been exported from a specific tool or software *(e.g **[asreview.csv](CSV/asreview.csv)** represents a CSV which has been exported from ASReview)*.
+Below, you can find a list of files which have been exported from a specific tool or software *(e.g **[asreview.csv](CSV/asreview.csv)** represents a CSV which has been exported from ASReview)*.
 
 | Format | ASReview | ... |
 | --- | --- | --- |
@@ -29,11 +29,11 @@ Below, you can find a list of files which has been exported from a specific tool
 | XLSX | asreview.xlsx | |
 
 ## Importing
-It is difficult to represent specific import capabilities of a given software from the perspective of a file format. But we will try to give you some highlights anyway!
+It is difficult to represent specific import capabilities of a given software from the perspective of a file format. But we will try to give you some highlights anyway! Namely, we are using the [baseline files](#baseline) for an import and comment based on it.
 
 | Format | ASReview | ... |
 | --- | --- | --- |
-| CSV | asreview.csv | |
+| CSV | Success | |
 | RIS | [WIP](https://github.com/asreview/asreview/issues/495) | |
-| TSV | asreview.tsv | |
-| XLSX | asreview.xlsx | |
+| TSV | Success | |
+| XLSX | Success | |
