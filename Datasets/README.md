@@ -7,25 +7,9 @@ As you might have found out for yourself already, file formats are not created e
 
 In case you are interested in supporting the effort, please refer to our [guide for contributing](#contributing).
 
-## Table of Contents
-* [Baseline](#baseline)
-  * [CSV](#csv)
-  * [RIS](#ris)
-  * [TSV](#tsv)
-  * [XLSX](#xlsx)
-* [Exporting](#exporting)
-  * [CSV](#csv-1)
-  * [RIS](#ris-1)
-  * [TSV](#tsv-1)
-  * [XLSX](#xlsx-1)
-* [Importing](#importing)
-  * [CSV](#csv-2)
-  * [RIS](#ris-2)
-  * [TSV](#tsv-2)
-  * [XLSX](#xlsx-2)
 
 ## Baseline
-Below, you can find the baseline files which should represent the file as close to the official specific standard as possible. *[Description of the file formats](#file-formats)*.
+In the table's first column, you can find the baseline files which should represent the file as close to the official specific standard as possible. *[Description of the file formats](#file-formats)*.
 
 | Format | File |
 | --- | --- |
