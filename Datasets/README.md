@@ -27,46 +27,80 @@ In case you are interested in supporting the effort, please refer to our [guide 
 ## Baseline
 Below, you can find the baseline files which should represent the file as close to the official specific standard as possible. *[Description of the file formats](#file-formats)*.
 
-### CSV
-- [_baseline.csv](CSV/_baseline.csv)
-
-### RIS
-- [_baseline.ris](CSV/_baseline.ris)
-
-#### TSV
-- [_baseline.tsv](CSV/_baseline.tsv)
-
-#### XLSX
-- [_baseline.xlsx](CSV/_baseline.xlsx)
-
+| Format | File |
+| --- | --- |
+| CSV | [_baseline.csv](CSV/_baseline.csv) |
+| RIS | [_baseline.ris](CSV/_baseline.ris) |
+| TSV | [_baseline.tsv](CSV/_baseline.tsv) |
+| XLSX | [_baseline.xlsx](CSV/_baseline.xlsx) |
 
 ## Exporting
 Below, you can find a list of files which has been exported from a specific tool or software *(e.g **[asreview.csv](CSV/asreview.csv)** represents a CSV which has been exported from ASReview)*.
 
 ### CSV
-- asreview.csv
+| Software | File |
+| --- | --- |
+| ASReview | asreview.csv |
+| . | . |
+| . | . |
+| . | . |
 
 ### RIS
-- asreview.ris
+| Software | File |
+| --- | --- |
+| ASReview | asreview.ris |
+| . | . |
+| . | . |
+| . | . |
 
 #### TSV
-- asreview.tsv
+| Software | File |
+| --- | --- |
+| ASReview | asreview.tsv |
+| . | . |
+| . | . |
+| . | . |
 
 #### XLSX
-- asreview.xlsx
+| Software | File |
+| --- | --- |
+| ASReview | asreview.xlsx |
+| . | . |
+| . | . |
+| . | . |
 
 
 ## Importing
 It is difficult to represent specific import capabilities of a given software from the perspective of a file format. But we will try to give you some highlights anyway!
 
 ### CSV
-- asreview.csv
+| Software | File |
+| --- | --- |
+| ASReview | asreview.csv |
+| . | . |
+| . | . |
+| . | . |
 
 ### RIS
-- asreview.ris
+| Software | File |
+| --- | --- |
+| ASReview | asreview.ris |
+| . | . |
+| . | . |
+| . | . |
 
 #### TSV
-- asreview.tsv
+| Software | File |
+| --- | --- |
+| ASReview | asreview.tsv |
+| . | . |
+| . | . |
+| . | . |
 
 #### XLSX
-- asreview.xlsx
+| Software | File |
+| --- | --- |
+| ASReview | asreview.xlsx |
+| . | . |
+| . | . |
+| . | . |
