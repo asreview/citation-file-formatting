@@ -14,9 +14,9 @@ Below, you can find the baseline files which should represent the file as close 
 | Format | Baseline |
 | --- | --- |
 | CSV | [_baseline.csv](CSV/_baseline.csv) |
-| RIS | [_baseline.ris](CSV/_baseline.ris) |
-| TSV | [_baseline.tsv](CSV/_baseline.tsv) |
-| XLSX | [_baseline.xlsx](CSV/_baseline.xlsx) |
+| RIS | [_baseline.ris](RIS/_baseline.ris) |
+| TSV | [_baseline.tsv](TSV/_baseline.tsv) |
+| XLSX | [_baseline.xlsx](XLSX/_baseline.xlsx) |
 
 ## Exporting
 Below, you can find a list of files which have been exported from a specific tool or software *(e.g **[asreview.csv](CSV/asreview.csv)** represents a CSV which has been exported from ASReview)*.
