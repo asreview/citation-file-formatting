@@ -21,19 +21,19 @@ Below, you can find the baseline files which should represent the file as close 
 ## Exporting
 Below, you can find a list of files which has been exported from a specific tool or software *(e.g **[asreview.csv](CSV/asreview.csv)** represents a CSV which has been exported from ASReview)*.
 
-| Format | ASReview | ... | 
+| Format | ASReview | ... |
 | --- | --- | --- |
 | CSV | asreview.csv | |
-| RIS | WORK IN PROGRESS | |
+| RIS | [WIP](https://github.com/asreview/asreview/issues/495) | |
 | TSV | asreview.tsv | |
 | XLSX | asreview.xlsx | |
 
 ## Importing
 It is difficult to represent specific import capabilities of a given software from the perspective of a file format. But we will try to give you some highlights anyway!
 
-| Format | ASReview | ... | 
+| Format | ASReview | ... |
 | --- | --- | --- |
 | CSV | asreview.csv | |
-| RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
+| RIS | [WIP](https://github.com/asreview/asreview/issues/495) | |
 | TSV | asreview.tsv | |
 | XLSX | asreview.xlsx | |
