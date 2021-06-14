@@ -18,7 +18,7 @@ A collection of documentation highlighting quirks around the file formatting for
 ## Introduction
 There are many software solutions and tools that allow you to manage your scientific work. Often times, you need to use multiple solutions to cover your whole workflow. This is where things get interesting but also confusing. Some tools just do not work well with others.
 
-In this open repository, we have tried to simplify the process of setting up a scientific workflow for research. We have described the interrelations between popular citation and reference managers, search engines and systematic review software. Additionally, we have gathered [relevant datasets](Datasets/README.md) to show capabilities of each tool more specifically.
+In this open repository, we have tried to simplify the process of setting up a scientific workflow for research. We have described the interrelations between popular citation and reference managers, search engines and systematic review software. Additionally, we have gathered [relevant datasets](Datasets/) to show capabilities of each tool more specifically.
 
 ## Usage
 This project is meant to serve as a guide in the field of scientific research, namely dealing with systematic reviews and related software solutions. Or you can check it out for inspiration and learning about said software!
