@@ -9,9 +9,9 @@ In case you are interested in supporting the effort, please refer to our [guide 
 
 
 ## Baseline
-In the table's first column, you can find the baseline files which should represent the file as close to the official specific standard as possible. *[Description of the file formats](#file-formats)*.
+Below, you can find the baseline files which should represent the file as close to the official specific standard as possible. *[Description of the file formats](#file-formats)*.
 
-| Format | File |
+| Format | Baseline |
 | --- | --- |
 | CSV | [_baseline.csv](CSV/_baseline.csv) |
 | RIS | [_baseline.ris](CSV/_baseline.ris) |
@@ -21,70 +21,19 @@ In the table's first column, you can find the baseline files which should repres
 ## Exporting
 Below, you can find a list of files which has been exported from a specific tool or software *(e.g **[asreview.csv](CSV/asreview.csv)** represents a CSV which has been exported from ASReview)*.
 
-### CSV
-| Software | File |
-| --- | --- |
-| ASReview | asreview.csv |
-| . | . |
-| . | . |
-| . | . |
-
-### RIS
-| Software | File |
-| --- | --- |
-| ASReview | asreview.ris |
-| . | . |
-| . | . |
-| . | . |
-
-#### TSV
-| Software | File |
-| --- | --- |
-| ASReview | asreview.tsv |
-| . | . |
-| . | . |
-| . | . |
-
-#### XLSX
-| Software | File |
-| --- | --- |
-| ASReview | asreview.xlsx |
-| . | . |
-| . | . |
-| . | . |
-
+| Format | ASReview | ... | 
+| --- | --- | --- |
+| CSV | [asreview.csv](CSV/asreview.csv) | |
+| RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
+| TSV | [asreview.tsv](CSV/asreview.tsv) | |
+| XLSX | [asreview.xlsx](CSV/asreview.xlsx) | |
 
 ## Importing
 It is difficult to represent specific import capabilities of a given software from the perspective of a file format. But we will try to give you some highlights anyway!
 
-### CSV
-| Software | File |
-| --- | --- |
-| ASReview | asreview.csv |
-| . | . |
-| . | . |
-| . | . |
-
-### RIS
-| Software | File |
-| --- | --- |
-| ASReview | asreview.ris |
-| . | . |
-| . | . |
-| . | . |
-
-#### TSV
-| Software | File |
-| --- | --- |
-| ASReview | asreview.tsv |
-| . | . |
-| . | . |
-| . | . |
-
-#### XLSX
-| Software | File |
-| --- | --- |
-| ASReview | asreview.xlsx |
-| . | . |
-| . | . |
-| . | . |
+| Format | ASReview | ... | 
+| --- | --- | --- |
+| CSV | :green_square: | |
+| RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
+| TSV | :green_square: | |
+| XLSX | :green_square: | |
