@@ -23,17 +23,17 @@ Below, you can find a list of files which has been exported from a specific tool
 
 | Format | ASReview | ... | 
 | --- | --- | --- |
-| CSV | [asreview.csv](CSV/asreview.csv) | |
+| CSV | [asreview.csv | |
 | RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
-| TSV | [asreview.tsv](CSV/asreview.tsv) | |
-| XLSX | [asreview.xlsx](CSV/asreview.xlsx) | |
+| TSV | asreview.tsv | |
+| XLSX | asreview.xlsx | |
 
 ## Importing
 It is difficult to represent specific import capabilities of a given software from the perspective of a file format. But we will try to give you some highlights anyway!
 
 | Format | ASReview | ... | 
 | --- | --- | --- |
-| CSV | :green_square: | |
+| CSV | [asreview.csv | |
 | RIS | [WORK IN PROGRESS](https://github.com/asreview/asreview/issues/495) | |
-| TSV | :green_square: | |
-| XLSX | :green_square: | |
+| TSV | asreview.tsv | |
+| XLSX | asreview.xlsx | |
