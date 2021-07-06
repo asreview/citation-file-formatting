@@ -128,7 +128,7 @@ Below, an example workflow pipeline has been described from the perspective of A
  | Endnote        |:green_square:|:green_square:|:green_square:|:green_square:|:gray_circle:|:green_square:|:gray_square:|:green_square:|:green_square:| Endnote |
 
 ## Contributing
-Details are described in our [contributing guide](https://github.com/asreview/citation-file-formatting/blob/main/CONTRIBUTING.md).
+Details are described in the [contributing guide](https://github.com/asreview/citation-file-formatting/blob/main/CONTRIBUTING.md).
 
 ## Credits
 //Include a section for credits in order to highlight and link to the authors of your project.//
