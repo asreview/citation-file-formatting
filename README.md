@@ -57,6 +57,7 @@ Learn more about [XLSX at Wikipedia](https://en.wikipedia.org/wiki/Office_Open_X
 
 ### Citation and Reference Managers
 Below, most commonly used citation and reference managers are listed.
+- [Citavi](https://www.citavi.com/en)
 - [Endnote](https://endnote.com)
 - [Mendeley](https://www.mendeley.com)
 - [Refworks](https://www.refworks.com/)
