@@ -1,4 +1,4 @@
-﻿TY  - JOUR
+TY  - JOUR
 AB  - This systematic review and meta-analysis aimed to quantify the diagnostic performance of pancreatic venous sampling (PVS), selective pancreatic arterial calcium stimulation with hepatic venous sampling (ASVS), and 18F-DOPA positron emission tomography (PET) in diagnosing and localizing focal congenital hyperinsulinism (CHI). This systematic review and meta-analysis was conducted according to the PRISMA statement. PubMed, EMBASE, SCOPUS and Web of Science electronic databases were systematically searched from their inception to November 1, 2011. Using predefined inclusion and exclusion criteria, two blinded reviewers selected articles. Critical appraisal ranked the retrieved articles according to relevance and validity by means of the QUADAS-2 criteria. Pooled data of homogeneous study results estimated the sensitivity, specificity, likelihood ratios and diagnostic odds ratio (DOR). 18F-DOPA PET was superior in distinguishing focal from diffuse CHI (summary DOR, 73.2) compared to PVS (summary DOR, 23.5) and ASVS (summary DOR, 4.3). Furthermore, it localized focal CHI in the pancreas more accurately than PVS and ASVS (pooled accuracy, 0.82 vs. 0.76, and 0.64, respectively). Important limitations comprised the inclusion of studies with small sample sizes, high probability of bias and heterogeneity among their results. Studies with small sample sizes and high probability of bias tended to overestimate the diagnostic accuracy. This systematic review and meta-analysis found evidence for the superiority of 18F-DOPA PET in diagnosing and localizing focal CHI in patients requiring surgery for this disease.
 AU  - Blomberg, Björn A.
 AU  - Moghbel, Mateen
@@ -12,14 +12,15 @@ EP  - 105
 ID  - 000-463-679-101-319
 IS  - 1
 JF  - Molecular imaging and biology
+L2  - https://paperity.org/p/8646823/the-value-of-radiologic-interventions-and-18f-dopa-pet-in-diagnosing-and-localizing-focal
+L2  - https://link.springer.com/article/10.1007/s11307-012-0572-0/fulltext.html
+L2  - https://core.ac.uk/display/81100392
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs11307-012-0572-0.pdf
+L2  - https://europepmc.org/article/MED/22752652
+L2  - https://pubmed.ncbi.nlm.nih.gov/22752652/
 L2  - https://rd.springer.com/article/10.1007/s11307-012-0572-0
 L2  - http://www.ncbi.nlm.nih.gov/pubmed/22752652
-L2  - http://europepmc.org/articles/PMC3553406
-L2  - https://link.springer.com/article/10.1007%2Fs11307-012-0572-0
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs11307-012-0572-0.pdf
-L2  - https://core.ac.uk/display/81100392
-L2  - https://paperity.org/p/8646823/the-value-of-radiologic-interventions-and-18f-dopa-pet-in-diagnosing-and-localizing-focal
-L2  - https://pubmed.ncbi.nlm.nih.gov/22752652/
+L2  - https://link.springer.com/article/10.1007/s11307-012-0572-0
 PB  - Springer New York
 PY  - 2012
 SN  - 18602002
@@ -53,9 +54,9 @@ KW  - head and neck cancer
 KW  - quality of life
 KW  - systematic review
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7999968
+L2  - https://europepmc.org/article/PMC/PMC7999968
 L1  - https://www.mdpi.com/2072-6694/13/6/1254/pdf
-L2  - https://www.mdpi.com/2072-6694/13/6/1254/htm
-L2  - https://europepmc.org/article/MED/33809141
+L2  - https://www.mdpi.com/2072-6694/13/6/1254
 PB  - Multidisciplinary Digital Publishing Institute (MDPI)
 PY  - 2021
 SN  - 20726694
@@ -72,7 +73,7 @@ AU  - Dimitrova, Maria
 AU  - Mitkova, Zornitsa
 AU  - García-Sáez, Gema
 AU  - Hernando, M. Elena
-AU  - Goettsch, Wim
+AU  - Goettsch, Wim G.
 AU  - Petrova, Guenka
 CY  - Switzerland
 DA  - 2021/03/16
@@ -85,12 +86,11 @@ KW  - diabetes monitoring systems
 KW  - glucose control
 KW  - personalized approach
 KW  - systematic review
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008960
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/33796074
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008960
-L2  - https://europepmc.org/article/PMC/PMC8008960
-L2  - https://www.frontiersin.org/articles/10.3389/fendo.2021.636959/full
 L2  - https://pubmed.ncbi.nlm.nih.gov/33796074/
+L2  - https://europepmc.org/article/PMC/PMC8008960
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008960
+L2  - https://www.frontiersin.org/articles/10.3389/fendo.2021.636959/full
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/33796074
 PB  - Frontiers Media S.A.
 PY  - 2021
 SN  - 16642392
@@ -102,9 +102,9 @@ ER  -
 TY  - JOUR
 AU  - Doesschate, T. ten
 AU  - van der Vaart, T.W.
-AU  - Damen, J.A.A.
+AU  - Damen, Johanna A A G
 AU  - Bonten, Marc J. M.
-AU  - van Werkhoven, C H
+AU  - van Werkhoven, C.H.
 CY  - United Kingdom
 DA  - 2020/08/12
 DO  - 10.1016/j.jinf.2020.08.008
@@ -113,8 +113,8 @@ ID  - 002-582-554-884-860
 IS  - 4
 JF  - The Journal of infection
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/32795483
-L2  - https://www.sciencedirect.com/science/article/pii/S0163445320305417
 L2  - https://pubmed.ncbi.nlm.nih.gov/32795483/
+L2  - https://www.sciencedirect.com/science/article/pii/S0163445320305417
 PB  - W.B. Saunders Ltd
 PY  - 2020
 SN  - 15322742
@@ -148,12 +148,10 @@ KW  - risk factors
 KW  - screening
 KW  - sex disparities
 KW  - systematic review
-L2  - https://europepmc.org/article/MED/33859615
 L2  - https://pubmed.ncbi.nlm.nih.gov/33859615/
-L2  - https://cris.maastrichtuniversity.nl/en/publications/sex-disparities-in-cardiovascular-risk-factor-assessment-and-scre
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Acris.maastrichtuniversity.nl%3Apublications%2Fe40a3ef3-f187-4593-940a-336ed6a9c318
+L2  - https://europepmc.org/article/MED/33859615
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/33859615
-L2  - https://www.frontiersin.org/articles/10.3389/fendo.2021.617902/pdf
+L2  - https://cris.maastrichtuniversity.nl/en/publications/sex-disparities-in-cardiovascular-risk-factor-assessment-and-scre
 L2  - https://www.frontiersin.org/articles/10.3389/fendo.2021.617902/full
 PB  - Frontiers Media S.A.
 PY  - 2021
@@ -175,15 +173,15 @@ EP  - 409
 ID  - 004-868-562-022-693
 IS  - 4
 JF  - Insights into imaging
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/22695951
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs13244-012-0175-y.pdf
-L2  - https://pubmed.ncbi.nlm.nih.gov/22695951/
-L2  - https://link.springer.com/article/10.1007%2Fs13244-012-0175-y
-L2  - https://paperity.org/p/4117806/apparent-diffusion-coefficient-measurements-in-the-differentiation-between-benign-and
-L2  - https://www.deepdyve.com/lp/springer-journals/apparent-diffusion-coefficient-measurements-in-the-differentiation-4LSQ0JkRc6
+L2  - https://insightsimaging.springeropen.com/articles/10.1007/s13244-012-0175-y
 L2  - https://europepmc.org/articles/PMC3481080
 L2  - https://core.ac.uk/display/81710421
-L2  - https://insightsimaging.springeropen.com/articles/10.1007/s13244-012-0175-y
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs13244-012-0175-y.pdf
+L2  - https://link.springer.com/article/10.1007/s13244-012-0175-y
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/22695951
+L2  - https://www.deepdyve.com/lp/springer-journals/apparent-diffusion-coefficient-measurements-in-the-differentiation-4LSQ0JkRc6
+L2  - https://paperity.org/p/4117806/apparent-diffusion-coefficient-measurements-in-the-differentiation-between-benign-and
+L2  - https://pubmed.ncbi.nlm.nih.gov/22695951/
 PB  - Springer Science and Business Media Deutschland GmbH
 PY  - 2012
 SN  - 18694101
@@ -209,14 +207,16 @@ JF  - Sports medicine - open
 KW  - Physical activity
 KW  - Smartphone applications
 KW  - Wearables
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120856
-L2  - http://dspace.library.uu.nl/handle/1874/371715
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Ascholarlypublications.universiteitleiden.nl%3Aitem_2971586/coll/person/id/1
-L2  - https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-018-0157-9
-L2  - http://europepmc.org/abstract/MED/30178072
-L2  - https://link.springer.com/article/10.1186/s40798-018-0157-9
-L1  - https://link.springer.com/content/pdf/10.1186/s40798-018-0157-9.pdf
+L2  - https://europepmc.org/article/MED/30178072
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Ascholarlypublications.universiteitleiden.nl%3Aitem_2971586
 L2  - https://pubmed.ncbi.nlm.nih.gov/30178072/
+L2  - https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-018-0157-9
+L2  - http://dspace.library.uu.nl/handle/1874/371715
+L1  - https://link.springer.com/content/pdf/10.1186/s40798-018-0157-9.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120856
+L2  - https://link.springer.com/article/10.1186/s40798-018-0157-9
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/30178072
+L2  - https://link.springer.com/article/10.1186/s40798-018-0157-9/figures/5
 PB  - Springer Science and Business Media LLC
 PY  - 2018
 SN  - 21991170
@@ -246,13 +246,14 @@ KW  - Gastric cancer
 KW  - Quality of life
 KW  - Randomized controlled trial
 KW  - Systemic therapy
-L2  - https://link.springer.com/article/10.1007/s10120-018-0792-3
-L2  - https://pubmed.ncbi.nlm.nih.gov/29380191/
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs10120-018-0792-3.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846827
 L2  - https://core.ac.uk/display/153324547
-L2  - http://europepmc.org/articles/PMC5846827
+L2  - https://pubmed.ncbi.nlm.nih.gov/29380191/
 L2  - https://paperity.org/p/86173729/reporting-of-health-related-quality-of-life-in-randomized-controlled-trials-involving
+L2  - https://link.springer.com/article/10.1007/s10120-018-0792-3
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2Fee58081a-37ac-4e21-a6a2-f3c7fc13a68e
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs10120-018-0792-3.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/29380191
+L2  - https://europepmc.org/abstract/MED/29380191
 PB  - Springer Japan
 PY  - 2018
 SN  - 14363305
@@ -279,16 +280,17 @@ KW  - FDG-PET
 KW  - Follicular lymphoma
 KW  - Interim
 KW  - Systematic review
-L2  - http://dspace.library.uu.nl/handle/1874/332413
-L2  - http://europepmc.org/articles/PMC4700102
-L2  - https://pubmed.ncbi.nlm.nih.gov/26576560/
-L2  - https://core.ac.uk/display/81265768
 L2  - https://rd.springer.com/article/10.1007/s00277-015-2553-2
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs00277-015-2553-2.pdf
+L2  - https://core.ac.uk/display/81265768
+L2  - http://dspace.library.uu.nl/handle/1874/332413
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/26576560
-L2  - https://link.springer.com/article/10.1007/s00277-015-2553-2/fulltext.html
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F332413
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs00277-015-2553-2.pdf
 L2  - https://dspace.library.uu.nl/bitstream/1874/332413/1/2.pdf
+L2  - https://link.springer.com/article/10.1007/s00277-015-2553-2/fulltext.html
 L2  - https://link.springer.com/article/10.1007/s00277-015-2553-2
+L2  - https://pubmed.ncbi.nlm.nih.gov/26576560/
+L2  - https://europepmc.org/article/MED/26576560
 PB  - Springer Verlag
 PY  - 2015
 SN  - 14320584
@@ -317,6 +319,7 @@ KW  - Randomized controlled trial
 KW  - Systematic review
 KW  - Trial registration
 L2  - https://pubmed.ncbi.nlm.nih.gov/33333165/
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0895435620312208
 L2  - https://www.sciencedirect.com/science/article/pii/S0895435620312208
 PB  - Elsevier USA
 PY  - 2020
@@ -361,13 +364,13 @@ AU  - Durham, Stephen R.
 AU  - van Wijk, Roy Gerth
 AU  - Halken, Susanne
 AU  - Hamelmann, Eckard
-AU  - Hellings, Peter W.
+AU  - Hellings, Peter
 AU  - Jacobsen, Lars
 AU  - Knol, Edward F.
 AU  - Larenas-Linnemann, Désirée
 AU  - Lin, Sandra Y.
 AU  - Maggina, Vivian
-AU  - Oude-Elberink, Hanneke N. G.
+AU  - Oude-Elberink, Hanneke
 AU  - Pajno, Giovanni Battista
 AU  - Panwankar, Ruby
 AU  - Pastorello, Elideanna
@@ -375,7 +378,7 @@ AU  - Pitsios, Constantinos
 AU  - Rotiroti, Giuseppina
 AU  - Timmermans, Frans
 AU  - Tsilochristou, Olympia
-AU  - Varga, Eva M
+AU  - Varga, Eva M.
 AU  - Wilkinson, Jamie
 AU  - Williams, Andrew
 AU  - Worm, Margitta
@@ -384,6 +387,7 @@ AU  - Sheikh, Aziz
 CY  - United Kingdom
 DA  - 2017/08/08
 DO  - 10.1186/s13601-017-0159-6
+EP  - 24
 ID  - 007-914-278-171-898
 IS  - 1
 JF  - Clinical and translational allergy
@@ -394,26 +398,27 @@ KW  - Allergy
 KW  - Hay fever
 KW  - Rhinitis
 L1  - https://pure.rug.nl/ws/files/46989412/Allergen_immunotherapy_for_allergic_rhinoconjunctivitis_a_systematic_overview_of_systematic_reviews.pdf
-L2  - https://link.springer.com/article/10.1186/s13601-017-0159-6
-L2  - http://www.research.ed.ac.uk/portal/files/43127633/s13601_017_0159_6.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5547534
-L2  - https://www.forskningsdatabasen.dk/catalog/2556574742
-L2  - https://pubmed.ncbi.nlm.nih.gov/28794855/
-L2  - https://www.research.ed.ac.uk/portal/files/43127633/s13601_017_0159_6.pdf
-L2  - http://orca.cf.ac.uk/103898/
-L1  - https://repub.eur.nl/pub/101320/REPUB_101320-OA.pdf
-L2  - https://www.rug.nl/research/portal/en/publications/allergen-immunotherapy-for-allergic-rhinoconjunctivitis(bbae5d26-a53a-4090-932c-6cefdd91f101).html
-L2  - https://ctajournal.biomedcentral.com/articles/10.1186/s13601-017-0159-6
-L2  - https://core.ac.uk/display/154412648
-L2  - https://orca.cardiff.ac.uk/103898/
-L2  - https://dspace.library.uu.nl/bitstream/1874/356415/1/s13601_017_0159_6.pdf
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/28794855
 L2  - http://dspace.library.uu.nl/handle/1874/356415
-L1  - https://link.springer.com/content/pdf/10.1186/s13601-017-0159-6.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/28794855
+L2  - https://pubmed.ncbi.nlm.nih.gov/28794855/
+L2  - https://link.springer.com/article/10.1186/s13601-017-0159-6
+L2  - https://lirias.kuleuven.be/1187608
 L2  - https://research.rug.nl/en/publications/allergen-immunotherapy-for-allergic-rhinoconjunctivitis-a-systema
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/28794855
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5547534
+L1  - https://link.springer.com/content/pdf/10.1186/s13601-017-0159-6.pdf
+L2  - https://orca.cardiff.ac.uk/103898/
+L2  - https://www.research.ed.ac.uk/portal/en/publications/allergen-immunotherapy-for-allergic-rhinoconjunctivitis(aca296e6-92f6-4077-8db7-9137cc887809).html
+L2  - https://www.rug.nl/research/portal/files/46989412/Allergen_immunotherapy_for_allergic_rhinoconjunctivitis_a_systematic_overview_of_systematic_reviews.pdf
 L2  - https://jhu.pure.elsevier.com/en/publications/allergen-immunotherapy-for-allergic-rhinoconjunctivitis-a-systema-2
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/28794855
+L2  - https://europepmc.org/article/MED/28794855
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Arepub.eur.nl%3A101320
+L2  - https://core.ac.uk/display/154412648
+L2  - https://dspace.library.uu.nl/bitstream/1874/356415/1/s13601_017_0159_6.pdf
+L2  - http://orca.cf.ac.uk/103898/
+L2  - https://ctajournal.biomedcentral.com/articles/10.1186/s13601-017-0159-6
 L2  - https://repub.eur.nl/pub/101320
+L1  - https://repub.eur.nl/pub/101320/REPUB_101320-OA.pdf
 L2  - https://core.ac.uk/download/97016012.pdf
 PB  - BioMed Central
 PY  - 2017
@@ -431,7 +436,7 @@ AU  - Giorgi, Wesley G.
 AU  - Hopstaken, Rogier M.
 AU  - de Wit, Niek J.
 AU  - Verheij, Theo J M
-AU  - Cals, Jochen W. L.
+AU  - Cals, Jochen W L
 CY  - United Kingdom
 DA  - 2018/10/26
 DO  - 10.1038/s41533-018-0104-8
@@ -439,16 +444,15 @@ EP  - 40
 ID  - 008-800-308-683-976
 IS  - 1
 JF  - NPJ primary care respiratory medicine
-L2  - https://europepmc.org/abstract/MED/30367067
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6203790
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Acris.maastrichtuniversity.nl%3Apublications%2Fca058201-014d-4d84-b308-59e03c197393
 L2  - https://www.nature.com/articles/s41533-018-0104-8.pdf
-L2  - https://cris.maastrichtuniversity.nl/portal/en/publications/diagnostic-value-of-signs-symptoms-and-diagnostic-tests-for-diagnosing-pneumonia-in-ambulant-children-in-developed-countries(ca058201-014d-4d84-b308-59e03c197393)/export.html
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6203790
 L2  - https://dspace.library.uu.nl/bitstream/1874/372984/1/s41533_018_0104_8.pdf
 L2  - http://dspace.library.uu.nl/handle/1874/372984
-L2  - https://pubmed.ncbi.nlm.nih.gov/30367067/
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F372984
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6203790
+L2  - http://europepmc.org/articles/PMC6203790
 L2  - https://www.nature.com/articles/s41533-018-0104-8/
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/30367067
+L2  - https://pubmed.ncbi.nlm.nih.gov/30367067/
 PB  - Nature Publishing Group
 PY  - 2018
 SN  - 20551010
@@ -459,7 +463,7 @@ VL  - 28
 ER  - 
 TY  - JOUR
 AB  - Background Congenital cytomegalovirus (cCMV) infection is a major cause of sensorineural hearing loss in children. Objective of review The objective of this systematic review was to compare performance in paediatric cochlear implant users with SNHL caused by cCMV compared to non-cCMV implantees. Type of review Systematic review SEARCH STRATEGY: PubMed, EMBASE and the Cochrane databases were searched from inception up to 15 May 2017 for children, cochlear implant, performance and their synonyms. Evaluation methods Titles, abstracts and full texts were screened for eligibility. Directness of evidence and risk of bias were assessed. From the included studies, study characteristics and outcome data (speech perception, speech production, receptive language and auditory performance of cCMV groups and non-cCMV groups) were extracted. Results A total of 5280 unique articles were screened of which 28 were eligible for critical appraisal. After critical appraisal, 12 studies remained for data extraction. Seven of 12 studies showed worse performance after cochlear implantation in cCMV children compared to non-cCMV children. Worse performance in cCMV children was attributed to cCMV-related comorbidities in six of these studies. Available data on asymptomatic cCMV children compared to non-cCMV children did not reveal an unfavourable effect on cochlear implant performance. Conclusions The available evidence reveals that cCMV children often have worse cochlear implant performance compared to non-cCMV children, which can be attributed to cCMV related comorbidities. We urge physicians to take into account the cCMV related comorbidities in the counselling of paediatric CI users deafened by cCMV.
-AU  - Kraaijenga, Véronique J C
+AU  - Kraaijenga, Véronique J. C.
 AU  - van Houwelingen, F.
 AU  - van der Horst, S.
 AU  - Visscher, J.
@@ -482,9 +486,10 @@ KW  - performance
 KW  - prelingual deafness
 KW  - sensorineural hearing loss
 KW  - systematic review
-L2  - https://onlinelibrary.wiley.com/doi/10.1111/coa.13142
-L1  - https://onlinelibrary.wiley.com/doi/pdf/10.1111/coa.13142
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/29768731
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/29768731
+L1  - https://onlinelibrary.wiley.com/doi/pdf/10.1111/coa.13142
+L2  - https://onlinelibrary.wiley.com/doi/full/10.1111/coa.13142
 L2  - https://pubmed.ncbi.nlm.nih.gov/29768731/
 PB  - Wiley-Blackwell
 PY  - 2018
@@ -516,13 +521,13 @@ KW  - PROM
 KW  - Patient reported outcomes
 KW  - Symptoms
 KW  - Toxicity
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/30377935
-L2  - https://link.springer.com/article/10.1007/s11060-018-03015-9/fulltext.html
-L2  - http://dspace.library.uu.nl/handle/1874/377077
-L1  - https://link.springer.com/content/pdf/10.1007/s11060-018-03015-9.pdf
 L2  - https://europepmc.org/article/MED/30377935
 L2  - https://link.springer.com/article/10.1007/s11060-018-03015-9
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/30377935
+L1  - https://link.springer.com/content/pdf/10.1007/s11060-018-03015-9.pdf
+L2  - http://dspace.library.uu.nl/handle/1874/377077
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267240/
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/30377935
 L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F377077
 PB  - Kluwer Academic Publishers
 PY  - 2018
@@ -549,11 +554,11 @@ KW  - cannabis use
 KW  - clinical high risk
 KW  - genetics
 KW  - psychotic disorder
-L2  - https://www.mdpi.com/2076-3425/10/2/97
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/32059350
-L1  - https://www.mdpi.com/2076-3425/10/2/97/pdf
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071602
 L2  - https://pubmed.ncbi.nlm.nih.gov/32059350/
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071602
+L2  - https://www.mdpi.com/2076-3425/10/2/97/htm
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071602
+L1  - https://www.mdpi.com/2076-3425/10/2/97/pdf
 PB  - Multidisciplinary Digital Publishing Institute (MDPI)
 PY  - 2020
 SN  - 20763425
@@ -578,15 +583,16 @@ KW  - FDG-PET
 KW  - Hodgkin lymphoma
 KW  - Meta-analysis
 KW  - Systematic review
-L2  - https://dspace.library.uu.nl/bitstream/1874/342747/1/2619_9.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/26931115
 L2  - http://dspace.library.uu.nl/handle/1874/342747
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F342747/coll/person/id/10
 L2  - https://core.ac.uk/display/81087861
-L2  - http://europepmc.org/articles/PMC4819743
-L2  - https://link.springer.com/article/10.1007/s00277-016-2619-9
-L2  - https://pubmed.ncbi.nlm.nih.gov/26931115/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F342747
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/26931115
+L2  - https://rd.springer.com/article/10.1007/s00277-016-2619-9
 L2  - http://www.ncbi.nlm.nih.gov/pubmed/26931115
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs00277-016-2619-9.pdf
+L2  - https://pubmed.ncbi.nlm.nih.gov/26931115/
+L2  - https://link.springer.com/article/10.1007/s00277-016-2619-9
+L2  - http://europepmc.org/abstract/MED/26931115
 PB  - Springer Verlag
 PY  - 2016
 SN  - 14320584
@@ -615,12 +621,12 @@ KW  - intestines
 KW  - natural casings
 KW  - titers
 KW  - viral loads
+L2  - https://europepmc.org/article/MED/33557372
 L2  - https://pubmed.ncbi.nlm.nih.gov/33557372/
 L1  - https://www.mdpi.com/2076-0817/10/2/173/pdf
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Alibrary.wur.nl%3Awurpubs%2F578754/coll/person/id/2/Language/en
-L2  - https://europepmc.org/article/MED/33557372
-L2  - https://www.mdpi.com/2076-0817/10/2/173
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Alibrary.wur.nl%3Awurpubs%2F578754
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7915499/
+L2  - https://www.mdpi.com/2076-0817/10/2/173
 PB  - MDPI AG
 PY  - 2021
 SN  - 20760817
@@ -662,15 +668,15 @@ DO  - 10.1371/journal.pone.0175947
 ID  - 015-430-936-175-938
 IS  - 4
 JF  - PloS one
+L2  - https://doaj.org/article/76334272aedf498aa966cc45ff620054
+L2  - https://dspace.library.uu.nl/handle/1874/348907
 L2  - https://dx.plos.org/10.1371/journal.pone.0175947
 L2  - https://ui.adsabs.harvard.edu/abs/2017PLoSO..1275947Z/abstract
-L2  - https://doaj.org/article/76334272aedf498aa966cc45ff620054
+L2  - https://europepmc.org/abstract/MED/28426793
 L2  - https://pubmed.ncbi.nlm.nih.gov/28426793/
 L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2F7e46eb18-fdcb-4ca3-971f-98cb15cebc67
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/28426793
-L2  - https://europepmc.org/article/MED/28426793
 L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175947
-L2  - http://dspace.library.uu.nl/handle/1874/348907
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5398555
 PB  - Public Library of Science
 PY  - 2017
 SN  - 19326203
@@ -697,20 +703,21 @@ EP  - 16
 ID  - 015-720-710-260-350
 IS  - 4
 JF  - PloS one
-L2  - https://plos.figshare.com/collections/Long-term_outcomes_of_survivors_of_neonatal_insults_A_systematic_review_and_meta-analysis/4952631
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Aresearch.vu.nl%3Apublications%2F3d7597db-8b59-45e9-b007-5769ae184076
+L2  - https://www.tropicalmedicine.ox.ac.uk/publications/1103232
+L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0231947&type=printable
 L2  - https://works.bepress.com/amina_abubakar/31/
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182387
-L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0231947&type=printable
-L2  - https://www.psych.ox.ac.uk/publications/1103232
-L1  - https://ecommons.aku.edu/cgi/viewcontent.cgi?article=1055&context=eastafrica_ihd
-L2  - https://pubmed.ncbi.nlm.nih.gov/32330163/
-L2  - https://dx.plos.org/10.1371/journal.pone.0231947
-L2  - https://www.tropicalmedicine.ox.ac.uk/publications/1103232
-L2  - https://works.bepress.com/amina_abubakar/31/download/
 L2  - https://ecommons.aku.edu/eastafrica_ihd/56/
-L2  - http://ui.adsabs.harvard.edu/abs/2020PLoSO..1531947M/abstract
-L2  - https://research.vu.nl/en/publications/long-term-outcomes-of-survivors-of-neonatal-insults-a-systematic-
 L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231947
+L1  - https://ecommons.aku.edu/cgi/viewcontent.cgi?article=1055&context=eastafrica_ihd
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/32330163
+L2  - https://pubmed.ncbi.nlm.nih.gov/32330163/
+L2  - https://www.psych.ox.ac.uk/publications/1103232
+L2  - https://research.vu.nl/en/publications/long-term-outcomes-of-survivors-of-neonatal-insults-a-systematic-
+L2  - http://ui.adsabs.harvard.edu/abs/2020PLoSO..1531947M/abstract
+L2  - https://dx.plos.org/10.1371/journal.pone.0231947
+L2  - https://plos.figshare.com/collections/Long-term_outcomes_of_survivors_of_neonatal_insults_A_systematic_review_and_meta-analysis/4952631
 PB  - Public Library of Science
 PY  - 2020
 SN  - 19326203
@@ -729,6 +736,7 @@ DO  - 10.1016/j.eist.2020.05.004
 EP  - 136
 ID  - 016-598-600-357-16X
 JF  - Environmental Innovation and Societal Transitions
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S221042242030085X
 L2  - https://www.sciencedirect.com/science/article/pii/S221042242030085X
 PB  - Elsevier BV
 PY  - 2020
@@ -759,17 +767,17 @@ KW  - hangover
 KW  - memory
 KW  - psychomotor
 KW  - sustained attention
+L1  - https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.14404
+L2  - https://research-information.bristol.ac.uk/en/publications/a-systematic-review-of-the-nextday-effects-of-heavy-alcohol-consumption-on-cognitive-performance(c60e3742-e8d5-4087-a586-c9788ad31b79).html
 L2  - https://researchportal.bath.ac.uk/en/publications/a-systematic-review-of-the-next-day-effects-of-heavy-alcohol-cons
 L2  - https://onlinelibrary.wiley.com/doi/full/10.1111/add.14404
-L2  - https://research-information.bris.ac.uk/en/publications/a-systematic-review-of-the-nextday-effects-of-heavy-alcohol-consumption-on-cognitive-performance(c60e3742-e8d5-4087-a586-c9788ad31b79).html
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6282576
-L2  - https://pubmed.ncbi.nlm.nih.gov/30144191/
-L1  - https://onlinelibrary.wiley.com/doi/pdf/10.1111/add.14404
 L1  - https://research-information.bris.ac.uk/files/168632323/Gunn_et_al_2018_Addiction.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/30144191
-L2  - http://europepmc.org/article/MED/30144191
-L2  - https://research-information.bristol.ac.uk/files/168632323/Gunn_et_al_2018_Addiction.pdf
+L2  - https://europepmc.org/article/MED/30144191
+L2  - https://pubmed.ncbi.nlm.nih.gov/30144191/
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6282576
 L2  - https://research-information.bris.ac.uk/en/publications/a-systematic-review-of-the-next-day-effects-of-heavy-alcohol-cons
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/30144191
+L2  - https://research-information.bris.ac.uk/en/publications/a-systematic-review-of-the-nextday-effects-of-heavy-alcohol-consumption-on-cognitive-performance(c60e3742-e8d5-4087-a586-c9788ad31b79).html
 L2  - https://core.ac.uk/download/161257769.pdf
 PB  - Wiley-Blackwell
 PY  - 2018
@@ -804,10 +812,13 @@ KW  - histopathology
 KW  - sonication
 KW  - systematic review
 KW  - tissue sampling
-L2  - https://jbji.copernicus.org/articles/3/173/2018/
-L2  - http://europepmc.org/articles/PMC6098816
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6098816/
+L1  - https://jbji.copernicus.org/articles/3/173/2018/jbji-3-173-2018.pdf
+L2  - https://europepmc.org/article/MED/30155402
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6098816
 L2  - https://pubmed.ncbi.nlm.nih.gov/30155402/
+L1  - https://lirias.kuleuven.be/retrieve/575505
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6098816
+L2  - https://jbji.copernicus.org/articles/3/173/2018/
 PB  - Copernicus GmbH
 PY  - 2018
 SN  - 22063552
@@ -830,18 +841,19 @@ EP  - 12
 ID  - 017-900-945-434-221
 IS  - 8
 JF  - PloS one
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4529149/
-L2  - https://moh-it.pure.elsevier.com/en/publications/hypercoagulability-is-a-stronger-risk-factor-for-ischaemic-stroke
-L2  - https://doaj.org/article/610b49d828a248959939a179d92cdc0a
-L2  - https://pubmed.ncbi.nlm.nih.gov/26252207/
-L2  - https://core.ac.uk/display/39823679
-L2  - http://ui.adsabs.harvard.edu/abs/2015PLoSO..1033523M/abstract
-L2  - https://dx.plos.org/10.1371/journal.pone.0133523
-L2  - http://europepmc.org/abstract/MED/26252207
 L2  - https://paperity.org/p/73825602/hypercoagulability-is-a-stronger-risk-factor-for-ischaemic-stroke-than-for-myocardial
-L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133523
-L2  - http://dspace.library.uu.nl/handle/1874/332037
+L2  - https://doaj.org/article/610b49d828a248959939a179d92cdc0a
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F332037
 L2  - https://air.unimi.it/handle/2434/429876
+L2  - http://ui.adsabs.harvard.edu/abs/2015PLoSO..1033523M/abstract
+L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133523
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/26252207
+L2  - https://moh-it.pure.elsevier.com/en/publications/hypercoagulability-is-a-stronger-risk-factor-for-ischaemic-stroke
+L2  - https://dx.plos.org/10.1371/journal.pone.0133523
+L2  - http://dspace.library.uu.nl/handle/1874/332037
+L2  - https://pubmed.ncbi.nlm.nih.gov/26252207/
+L2  - https://europepmc.org/articles/PMC4529149
+L2  - https://core.ac.uk/display/39823679
 PB  - Public Library of Science
 PY  - 2015
 SN  - 19326203
@@ -852,7 +864,7 @@ VL  - 10
 ER  - 
 TY  - JOUR
 AB  - Recognizing the robust sex differences in schizophrenia prevalence, the selective estrogen receptor modulator (SERM) raloxifene is a likely candidate for augmentation therapy in this disorder. Therefore, a systematic search was performed using PubMed (Medline), Embase, PsychInfo, and Cochrane Database of Systematic Reviews. Randomized controlled trials investigating the effect of raloxifene in schizophrenia spectrum disorders were included in the quantitative analyses. Outcome measures were psychotic symptom severity, depression, and cognition. Meta-analyses were performed using Comprehensive Meta-Analysis software. A random-effects model was used to compute overall weighted effect sizes in Hedges’ g. Nine studies were included, investigating 561 patients with a schizophrenia spectrum disorder. Raloxifene was superior to placebo in improving total symptom severity (N = 482; Hedge’s g = .57, p = 0.009), as well as positive (N = 561; Hedge’s g = 0.32, p = 0.02), negative (N = 561; Hedge’s g = 0.40, p = 0.02), and general (N = 526; Hedge’s g = 0.46, p = 0.01) subscales, as measured by the Positive and Negative Syndrome Scale. No significant effects were found for comorbid depression and cognitive functioning. Altogether, these results confirm the potential of raloxifene augmentation in the treatment of schizophrenia.
-AU  - de Boer, Janna N.
+AU  - de Boer, Janna
 AU  - Prikken, Merel
 AU  - Lei, Wan U.
 AU  - Begemann, Marieke J.H.
@@ -864,12 +876,13 @@ EP  - 6
 ID  - 020-206-392-856-827
 IS  - 1
 JF  - NPJ schizophrenia
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.rug.nl%3Apublications%2F705141e1-03fc-48db-8415-40c79e4de8d4
 L2  - https://europepmc.org/articles/PMC5762671
+L2  - https://www.nature.com/articles/s41537-017-0043-3
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/29321530
-L2  - https://nature.com/articles/s41537-017-0043-3
-L2  - https://www.rug.nl/research/portal/files/71240608/s41537_017_0043_3.pdf
 L2  - https://www.nature.com/articles/s41537-017-0043-3.pdf
 L2  - https://pubmed.ncbi.nlm.nih.gov/29321530/
+L2  - https://www.rug.nl/research/portal/files/71240608/s41537_017_0043_3.pdf
 PB  - Springer Science and Business Media LLC
 PY  - 2018
 SN  - 2334265x
@@ -899,10 +912,11 @@ KW  - In vitro testing
 KW  - Mechanical behavior
 KW  - Systematic review
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7524852
-L2  - https://pubmed.ncbi.nlm.nih.gov/32409999/
 L2  - https://link.springer.com/article/10.1007/s00270-020-02499-1
-L1  - https://link.springer.com/content/pdf/10.1007/s00270-020-02499-1.pdf
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Aris.utwente.nl%3Apublications%2F8c5752c3-369d-4179-b092-4b5008c4436d
+L2  - https://pubmed.ncbi.nlm.nih.gov/32409999/
 L2  - https://research.utwente.nl/en/publications/incomparability-of-carotid-artery-stent-characteristics-a-systema
+L1  - https://link.springer.com/content/pdf/10.1007/s00270-020-02499-1.pdf
 PB  - Springer Verlag
 PY  - 2020
 SN  - 1432086x
@@ -934,10 +948,11 @@ KW  - clinical laboratory techniques
 KW  - immune thrombocytopenia
 KW  - paediatrics
 KW  - systematic review
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/32080872
-L2  - https://onlinelibrary.wiley.com/doi/full/10.1111/vox.12894
-L2  - https://europepmc.org/article/MED/32080872
+L2  - https://onlinelibrary.wiley.com/doi/10.1111/vox.12894
 L2  - https://pubmed.ncbi.nlm.nih.gov/32080872/
+L2  - https://europepmc.org/article/MED/32080872
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/32080872
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2F3f723d08-6de0-47db-a39a-7bc880eb50b0
 PB  - Wiley-Blackwell
 PY  - 2020
 SN  - 14230410
@@ -963,9 +978,10 @@ KW  - BIPED - Hemophilic arthropathy
 KW  - Biochemical markers
 KW  - Inflammation
 KW  - Joint tissue turnover
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/33277057
 L2  - https://www.sciencedirect.com/science/article/pii/S0268960X20301314
 L2  - https://pubmed.ncbi.nlm.nih.gov/33277057/
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/33277057
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0268960X20301314
 PB  - Churchill Livingstone
 PY  - 2020
 SN  - 15321681
@@ -1001,10 +1017,11 @@ KW  - animal-to-human translation
 KW  - experimental design
 KW  - methotrexate
 KW  - rheumatoid arthritis
-L1  - https://www.mdpi.com/2076-2615/10/6/1047/pdf
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7341304
 L2  - https://repository.ubn.ru.nl/handle/2066/220843
 L2  - https://www.mdpi.com/2076-2615/10/6/1047
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7341304
+L1  - https://www.mdpi.com/2076-2615/10/6/1047/pdf
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Arepository.ubn.ru.nl%3A2066%2F220843
 PB  - Multidisciplinary Digital Publishing Institute (MDPI)
 PY  - 2020
 SN  - 20762615
@@ -1030,8 +1047,9 @@ KW  - Prognosis
 KW  - Systematic review
 L2  - https://link.springer.com/article/10.1186/s41512-019-0049-6
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6460843/
-L2  - https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-019-0049-6
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6460843/
 L1  - https://link.springer.com/content/pdf/10.1186/s41512-019-0049-6.pdf
+L2  - https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-019-0049-6
 PB  - Springer Science and Business Media LLC
 PY  - 2019
 SN  - 23977523
@@ -1061,12 +1079,13 @@ KW  - depression
 KW  - mindfulness
 KW  - tinnitus
 L2  - https://pubmed.ncbi.nlm.nih.gov/31736854/
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/31736854
-L2  - http://dspace.library.uu.nl/handle/1874/391621
-L2  - https://europepmc.org/article/MED/31736854
 L2  - https://www.frontiersin.org/articles/10.3389/fneur.2019.01135/full
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/31736854
+L2  - https://europepmc.org/article/MED/31736854
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/31736854
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2F3e972117-fd3d-4652-8430-3f51a9976fb1
 L2  - https://www.frontiersin.org/article/10.3389/fneur.2019.01135/full
+L2  - http://dspace.library.uu.nl/handle/1874/391621
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6838968/
 PB  - Frontiers Media S.A.
 PY  - 2019
 SN  - 16642295
@@ -1095,9 +1114,9 @@ KW  - metabolic syndrome
 KW  - psychotic spectrum disorder
 KW  - schizophrenia
 KW  - systematic review
+L2  - https://pubmed.ncbi.nlm.nih.gov/33868046/
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8044798
 L2  - https://europepmc.org/article/PMC/PMC8044798
-L2  - https://pubmed.ncbi.nlm.nih.gov/33868046/
 L2  - https://www.frontiersin.org/articles/10.3389/fpsyt.2021.625935/full
 PB  - Frontiers Media S.A.
 PY  - 2021
@@ -1120,14 +1139,13 @@ EP  - 15
 ID  - 026-083-025-635-660
 IS  - 1
 JF  - European Transport Research Review
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F395440
-L2  - https://www.scipedia.com/public/238,295pz
-L2  - https://link.springer.com/article/10.1186/s12544-020-0400-6
 L1  - https://link.springer.com/content/pdf/10.1186/s12544-020-0400-6.pdf
-L2  - https://paperity.org/p/236289598/a-systematic-review-of-indicators-to-assess-the-sustainability-of-road-infrastructure
-L2  - https://etrr.springeropen.com/articles/10.1186/s12544-020-0400-6
-L2  - http://dspace.library.uu.nl/handle/1874/395440
+L2  - https://link.springer.com/article/10.1186/s12544-020-0400-6
 L2  - https://trid.trb.org/view/1720877
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Alibrary.wur.nl%3Awurpubs%2F563953
+L2  - https://www.scipedia.com/public/238,295pz
+L2  - http://dspace.library.uu.nl/handle/1874/395440
+L2  - https://etrr.springeropen.com/articles/10.1186/s12544-020-0400-6
 PB  - Springer Science and Business Media LLC
 PY  - 2020
 SN  - 18670717
@@ -1153,13 +1171,14 @@ KW  - replicability
 KW  - reporting quality
 KW  - systematic review
 KW  - transparency
-L2  - https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01395/pdf
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572251
-L2  - http://dspace.library.uu.nl/handle/1874/339163
 L2  - https://core.ac.uk/display/87636104
-L2  - https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01395/full
-L2  - https://europepmc.org/articles/PMC5572251
+L2  - https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01395/pdf
 L2  - http://journal.frontiersin.org/article/10.3389/fpsyg.2017.01395/full
+L2  - https://europepmc.org/articles/PMC5572251
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572251
+L2  - https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01395/full
+L2  - http://dspace.library.uu.nl/handle/1874/339163
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572251
 PB  - Frontiers Media S.A.
 PY  - 2017
 SN  - 16641078
@@ -1177,7 +1196,7 @@ AU  - Ávila-Ríos, Santiago
 AU  - Iwuji, Collins
 AU  - Derache, Anne
 AU  - Delaporte, Eric
-AU  - Wensing, Annemarie M J
+AU  - Wensing, Annemarie M. J.
 AU  - Aves, Theresa
 AU  - Borhan, A S M
 AU  - Leenus, Alvin
@@ -1198,17 +1217,17 @@ KW  - NNRTIs
 KW  - pretreatment HIV drug resistance
 KW  - treatment failure
 KW  - virological failure
-L2  - https://academic.oup.com/jid/advance-article-pdf/doi/10.1093/infdis/jiaa683/34364020/jiaa683.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/33202025
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328216
+L2  - https://academic.oup.com/jid/article/224/3/377/5986606
 L2  - https://pubmed.ncbi.nlm.nih.gov/33202025/
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/33202025
 L2  - http://www.ncbi.nlm.nih.gov/pubmed/33202025
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328216
 PB  - Oxford University Press
 PY  - 2021
 SN  - 15376613
 SN  - 00221899
 SP  - 377
-TI  - Clinical Impact of Pretreatment Human Immunodeficiency Virus Drug Resistance in People Initiating Nonnucleoside Reverse Transcriptase Inhibitor-Containing Antiretroviral Therapy: A Systematic Review and Meta-analysis.
+TI  - Clinical Impact of Pretreatment Human Immunodeficiency Virus Drug Resistance in People Initiating Nonnucleoside Reverse Transcriptase Inhibitor–Containing Antiretroviral Therapy: A Systematic Review and Meta-analysis
 UR  - https://lens.org/028-428-468-331-846
 VL  - 224
 ER  - 
@@ -1227,12 +1246,11 @@ IS  - 4
 JF  - PLoS neglected tropical diseases
 L2  - https://dx.plos.org/10.1371/journal.pntd.0008276
 L2  - https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0008276
-L1  - https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0008276&type=printable
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205316
-L2  - http://europepmc.org/article/MED/32339201
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205316
 L2  - https://pubmed.ncbi.nlm.nih.gov/32339201/
+L1  - https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0008276&type=printable
 L2  - https://www.scilit.net/article/18a9d24ce077bd70ec7f967691b0147b
+L2  - http://europepmc.org/article/MED/32339201
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205316
 PB  - Public Library of Science
 PY  - 2020
 SN  - 19352735
@@ -1244,7 +1262,7 @@ VL  - 14
 ER  - 
 TY  - JOUR
 AB  - This study provides a synthesis of meta-analyses and systematic reviews on non-pharmacological treatments for childhood aggression. Treatments referred to universal prevention, selective prevention, indicated prevention, or intervention (Mrazek and Haggerty, 1994). Seventy-two meta-analyses and systematic reviews met the inclusion criteria. We describe their characteristics, effect sizes across types of treatments, and the effects of various moderators. For universal and selective prevention, effects were mostly absent or small; for indicated prevention and interventions, effects were mostly small or medium. Only two moderators had a positive effect on treatment effectiveness, namely pre-test levels of aggression and parental involvement. These results identified similarities between indicated prevention and intervention treatments, on the one hand, and universal prevention and selective prevention, on the other. Our findings suggest that research distinguishing between targets of treatments (i.e., factors associated with childhood aggression vs. present aggressive behaviors) would be promising. Moreover, to further increase effectiveness of treatments for childhood aggression, individual differences warrant scientific attention.
-AU  - Hendriks, Anna-Marie
+AU  - Hendriks, Anne M.
 AU  - Bartels, Meike
 AU  - Colins, Olivier F.
 AU  - Finkenauer, Catrin
@@ -1259,16 +1277,18 @@ KW  - Intervention
 KW  - Meta-analysis
 KW  - Prevention
 KW  - Systematic review
-L2  - https://research.vu.nl/en/publications/childhood-aggression-a-synthesis-of-reviews-and-meta-analyses-to-
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Aresearch.vu.nl%3Apublications%2Ffe72b16f-0d85-4bb6-8d77-079a3960953d
-L2  - https://dspace.library.uu.nl/bitstream/1874/373310/1/hendriks.pdf
-L2  - https://core.ac.uk/display/155021845
-L2  - https://dspace.library.uu.nl/handle/1874/373310
 L2  - https://biblio.ugent.be/publication/8588067
-L2  - https://europepmc.org/abstract/MED/29580961
-L2  - https://www.safetylit.org/citations/index.php?fuseaction=citations.viewdetails&citationIds[]=citjournalarticle_577952_23
-L2  - https://www.sciencedirect.com/science/article/pii/S0149763417309454
+L2  - http://dspace.library.uu.nl/handle/1874/373310
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/29580961
+L2  - https://www.safetylit.org/citations/index.php?fuseaction=citations.viewdetails&citationIds[]=citjournalarticle_577952_23
+L2  - https://core.ac.uk/display/155021845
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0149763417309454
+L2  - https://dspace.library.uu.nl/bitstream/1874/373310/1/hendriks.pdf
+L2  - https://europepmc.org/abstract/MED/29580961
+L2  - https://research.vu.nl/en/publications/childhood-aggression-a-synthesis-of-reviews-and-meta-analyses-to-
+L2  - https://www.sciencedirect.com/science/article/pii/S0149763417309454#!
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Aresearch.vu.nl%3Apublications%2Ffe72b16f-0d85-4bb6-8d77-079a3960953d
+L2  - https://www.sciencedirect.com/science/article/pii/S0149763417309454
 PB  - Elsevier Limited
 PY  - 2018
 SN  - 18737528
@@ -1296,12 +1316,13 @@ KW  - Development
 KW  - Offspring
 KW  - Pregnancy
 KW  - Systemic lupus erythematosus
-L2  - https://www.sciencedirect.com/science/article/pii/S1568997217301258
-L2  - http://europepmc.org/abstract/MED/28479488
+L2  - https://pubmed.ncbi.nlm.nih.gov/28479488/
 L2  - https://core.ac.uk/display/153349121
 L2  - http://dspace.library.uu.nl/handle/1874/358413
+L2  - https://www.sciencedirect.com/science/article/pii/S1568997217301258
+L2  - http://europepmc.org/abstract/MED/28479488
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/28479488
-L2  - https://pubmed.ncbi.nlm.nih.gov/28479488/
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S1568997217301258
 PB  - Elsevier
 PY  - 2017
 SN  - 18730183
@@ -1328,9 +1349,8 @@ KW  - Mental health and well-being
 KW  - Neighbourhood deprivation effects
 KW  - Systematic review
 KW  - Young people
-L2  - https://www.sciencedirect.com/science/article/pii/S0277953620307619
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/33495056
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/33495056
+L2  - https://www.sciencedirect.com/science/article/pii/S0277953620307619
 PB  - Elsevier Limited
 PY  - 2020
 SN  - 18735347
@@ -1353,16 +1373,17 @@ EP  - 257
 ID  - 034-353-267-255-350
 IS  - 5
 JF  - Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Arepository.ubn.ru.nl%3A2066%2F152401
 L2  - https://research.rug.nl/en/publications/ischaemic-heart-disease-during-pregnancy-or-post-partum-systemati
-L2  - https://core.ac.uk/display/92533646
-L2  - https://europepmc.org/abstract/MED/25911007
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/25911007
-L2  - https://link.springer.com/article/10.1007/s12471-015-0677-6
-L2  - https://www.rug.nl/research/portal/en/publications/ischaemic-heart-disease-during-pregnancy-or-postpartum(6129f9f4-fa89-4495-8826-321cede39804).html
-L2  - https://repository.ubn.ru.nl/handle/2066/152401
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs12471-015-0677-6.pdf
-L2  - https://pubmed.ncbi.nlm.nih.gov/25911007/
 L2  - https://paperity.org/p/61532661/ischaemic-heart-disease-during-pregnancy-or-post-partum-systematic-review-and-case-series
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs12471-015-0677-6.pdf
+L2  - http://europepmc.org/articles/PMC4409591
+L2  - https://link.springer.com/article/10.1007/s12471-015-0677-6
+L2  - https://pubmed.ncbi.nlm.nih.gov/25911007/
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/25911007
+L2  - https://repository.ubn.ru.nl/handle/2066/152401
+L2  - https://www.rug.nl/research/portal/publications/ischaemic-heart-disease-during-pregnancy-or-postpartum(6129f9f4-fa89-4495-8826-321cede39804).html
+L2  - https://core.ac.uk/display/92533646
 L2  - https://core.ac.uk/download/43599873.pdf
 PB  - Bohn Stafleu van Loghum
 PY  - 2015
@@ -1423,12 +1444,14 @@ KW  - Minor stroke
 KW  - Patient delay
 KW  - Systematic review
 KW  - TIA
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469675
-L2  - https://link.springer.com/article/10.1007/s00415-018-8977-6
-L2  - http://dspace.library.uu.nl/handle/1874/386390
-L2  - https://europepmc.org/abstract/MED/30027321
-L2  - https://pubmed.ncbi.nlm.nih.gov/30027321/
 L1  - https://link.springer.com/content/pdf/10.1007/s00415-018-8977-6.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469675
+L2  - http://dspace.library.uu.nl/bitstream/1874/386390/1/dolmans.pdf
+L2  - https://pubmed.ncbi.nlm.nih.gov/30027321/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F386390
+L2  - http://dspace.library.uu.nl/handle/1874/386390
+L2  - https://europepmc.org/article/PMC/PMC6469675
+L2  - https://link.springer.com/article/10.1007/s00415-018-8977-6
 PB  - D. Steinkopff-Verlag
 PY  - 2018
 SN  - 14321459
@@ -1457,12 +1480,12 @@ KW  - non-small-cell lung cancer
 KW  - predictive biomarker
 KW  - programmed cell death-ligand 1
 KW  - systematic review
-L2  - https://europepmc.org/article/PMC/PMC7318295
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7318295
-L2  - https://onlinelibrary.wiley.com/doi/full/10.1111/his.14040
-L1  - https://onlinelibrary.wiley.com/doi/epdf/10.1111/his.14040
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/31793055
+L1  - https://onlinelibrary.wiley.com/doi/epdf/10.1111/his.14040
+L2  - https://onlinelibrary.wiley.com/doi/full/10.1111/his.14040
+L2  - https://europepmc.org/article/PMC/PMC7318295
 L2  - https://pubmed.ncbi.nlm.nih.gov/31793055/
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7318295
 PB  - Wiley-Blackwell
 PY  - 2020
 SN  - 13652559
@@ -1491,14 +1514,15 @@ KW  - Internet intervention
 KW  - Meta-analysis
 KW  - Systematic review
 L2  - https://ueaeprints.uea.ac.uk/66724/
+L2  - https://link.springer.com/article/10.1007/s12529-016-9601-8
 L2  - https://core.ac.uk/display/77064950
-L2  - https://europepmc.org/articles/PMC5608865
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608865
 L2  - https://pubmed.ncbi.nlm.nih.gov/27757844/
-L2  - https://link.springer.com/10.1007/s12529-016-9601-8
 L2  - https://research-portal.uea.ac.uk/en/publications/computer-based-interventions-for-problematic-alcohol-use-a-review
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs12529-016-9601-8.pdf
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2F8dd3d366-3541-486a-8f40-0c10bb926956
+L2  - https://europepmc.org/abstract/MED/27757844
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608865
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608865
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs12529-016-9601-8.pdf
 L2  - https://core.ac.uk/download/154425551.pdf
 PB  - Routledge
 PY  - 2016
@@ -1525,6 +1549,7 @@ AU  - Joles, Jaap A.
 CY  - Switzerland
 DA  - 2020/09/14
 DO  - 10.3390/ijms21186742
+EP  - 22
 ID  - 041-105-929-120-473
 IS  - 18
 JF  - International journal of molecular sciences
@@ -1536,17 +1561,20 @@ KW  - left ventricular diastolic dysfunction
 KW  - matrix metalloproteinase
 KW  - systematic review
 KW  - tissue inhibitor of metalloproteinase
-L2  - https://www.mdpi.com/1422-0067/21/18/6742/htm
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/32937927
-L1  - https://www.mdpi.com/1422-0067/21/18/6742/pdf
-L2  - https://pubmed.ncbi.nlm.nih.gov/32937927/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Arepub.eur.nl%3A130402
+L2  - https://www.mdpi.com/1422-0067/21/18/6742
+L1  - https://repub.eur.nl/pub/130402/Repub_130402_O-A.pdf
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555240
+L2  - https://repub.eur.nl/pub/130402
+L2  - https://pubmed.ncbi.nlm.nih.gov/32937927/
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/32937927
+L2  - https://www.mdpi.com/1422-0067/21/18/6742/pdf
 L2  - https://core.ac.uk/download/334430427.pdf
 PB  - Multidisciplinary Digital Publishing Institute (MDPI)
 PY  - 2020
 SN  - 14220067
 SN  - 16616596
-SP  - 6742
+SP  - 1
 TI  - Matrix Metalloproteinases and Tissue Inhibitors of Metalloproteinases in Extracellular Matrix Remodeling during Left Ventricular Diastolic Dysfunction and Heart Failure with Preserved Ejection Fraction: A Systematic Review and Meta-Analysis
 UR  - https://lens.org/041-105-929-120-473
 VL  - 21
@@ -1570,10 +1598,10 @@ KW  - research legacy
 KW  - susceptibility to bias
 KW  - systematic review
 KW  - transparency
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667817/
+L2  - https://onlinelibrary.wiley.com/doi/10.1002/ece3.1722
 L1  - https://www.onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.1722
 L2  - http://europepmc.org/articles/PMC4667817
-L2  - https://onlinelibrary.wiley.com/doi/10.1002/ece3.1722
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667817/
 PB  - John Wiley and Sons Ltd
 PY  - 2015
 SN  - 20457758
@@ -1600,16 +1628,19 @@ DO  - 10.1371/journal.pone.0222998
 ID  - 042-398-480-593-809
 IS  - 9
 JF  - PloS one
+L2  - https://europepmc.org/article/MED/31550274
 L2  - https://research.vumc.nl/en/publications/correlates-of-prenatal-and-postnatal-mother-to-infant-bonding-qua
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/31550274
-L2  - https://dx.plos.org/10.1371/journal.pone.0222998
 L2  - http://dspace.library.uu.nl/handle/1874/387539
-L2  - https://pubmed.ncbi.nlm.nih.gov/31550274/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.rug.nl%3Apublications%2Ffcc171df-f24c-468d-a35f-fb4687cd74dd
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6759162
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/31550274
 L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0222998&type=printable
 L2  - https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0222998
-L2  - https://europepmc.org/article/MED/31550274
+L2  - https://www.rug.nl/research/portal/files/97728207/Correlates_of_prenatal_and_postnatal_mother_to_infant_bonding_qualit_A_systematic_review.pdf
 L2  - http://ui.adsabs.harvard.edu/abs/2019PLoSO..1422998T/abstract
-L2  - https://www.rug.nl/research/portal/en/publications/correlates-of-prenatal-and-postnatal-mothertoinfant-bonding-quality(fcc171df-f24c-468d-a35f-fb4687cd74dd).html
+L2  - https://www.rug.nl/research/portal/publications/ecorrelates-of-prenatal-and-postnatal-mothertoinfant-bonding-quality(fcc171df-f24c-468d-a35f-fb4687cd74dd).html
+L2  - https://dx.plos.org/10.1371/journal.pone.0222998
+L2  - https://pubmed.ncbi.nlm.nih.gov/31550274/
 PB  - Public Library of Science
 PY  - 2019
 SN  - 19326203
@@ -1636,28 +1667,31 @@ AU  - de Jager, Saskia C.A.
 CY  - Netherlands
 DA  - 2020/04/25
 DO  - 10.1007/s10741-020-09960-w
-EP  - 10
+EP  - 1524
 ID  - 043-077-059-046-202
+IS  - 6
 JF  - Heart failure reviews
 KW  - Animal model
 KW  - Hear failure
 KW  - Meta-analysis
 KW  - Systematic review
 KW  - Transverse aortic constriction
-L1  - https://link.springer.com/content/pdf/10.1007/s10741-020-09960-w.pdf
 L1  - https://repub.eur.nl/pub/126699/Repub_126699_O-A.pdf
-L2  - https://link.springer.com/article/10.1007/s10741-020-09960-w
 L2  - https://pubmed.ncbi.nlm.nih.gov/32335789/
+L2  - https://link.springer.com/article/10.1007/s10741-020-09960-w
 L2  - https://repub.eur.nl/pub/126699
+L1  - https://link.springer.com/content/pdf/10.1007/s10741-020-09960-w.pdf
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Arepub.eur.nl%3A126699
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/32335789
 L2  - https://core.ac.uk/download/322667963.pdf
 PB  - Springer Netherlands
 PY  - 2020
 SN  - 15737322
 SN  - 13824147
-SP  - 1
+SP  - 1515
 TI  - The transverse aortic constriction heart failure animal model: a systematic review and meta-analysis
 UR  - https://lens.org/043-077-059-046-202
+VL  - 26
 ER  - 
 TY  - JOUR
 AB  - In this systematic literature review, the effects of the application of a checklist during in hospital resuscitation of trauma patients on adherence to the ATLS guidelines, trauma team performance, and patient-related outcomes were integrated. A systematic review was performed following the Preferred Reporting Items for Systematic Reviews and Meta-analyses checklist. The search was performed in Pubmed, Embase, CINAHL, and Cochrane inception till January 2019. Randomized controlled- or controlled before-and-after study design were included. All other forms of observational study designs, reviews, case series or case reports, animal studies, and simulation studies were excluded. The Effective Public Health Practice Project Quality Assessment Tool was applied to assess the methodological quality of the included studies. Three of the 625 identified articles were included, which all used a before-and-after study design. Two studies showed that Advanced Trauma Life Support (ATLS)-related tasks are significantly more frequently performed when a checklist was applied during resuscitation. [14 of 30 tasks (p   25, aOR 0.51, 95% CI 0.30–0.89). The application of a checklist may improve ATLS adherence and workflow during trauma resuscitation. Current literature is insufficient to truly define the effect of the application of a checklist during trauma resuscitation on patient-related outcomes, although one study showed promising results as an improved chance of survival for the most severely injured patients was found.
@@ -1678,9 +1712,10 @@ KW  - Checklist
 KW  - Process- and patient related outcome
 KW  - Trauma resuscitation
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7026213
-L2  - https://pubmed.ncbi.nlm.nih.gov/31392359/
-L2  - https://link.springer.com/article/10.1007/s00068-019-01181-7
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/31392359
 L1  - https://link.springer.com/content/pdf/10.1007/s00068-019-01181-7.pdf
+L2  - https://link.springer.com/article/10.1007/s00068-019-01181-7
+L2  - https://pubmed.ncbi.nlm.nih.gov/31392359/
 PB  - Urban und Vogel
 PY  - 2019
 SN  - 18639941
@@ -1691,7 +1726,7 @@ UR  - https://lens.org/044-478-307-765-120
 VL  - 46
 ER  - 
 TY  - JOUR
-AB  - It has been proposed that the use of cue-reminders may increase the effectiveness of interventions that aim to prevent health-risk behaviors (i.e., having unsafe sex, unhealthy dietary intake, lack of physical activity, and substance use). The aim of this systematic review was to explore whether there is evidence supporting this proposition, and to explore how cue-reminders are applied in health-risk behavior interventions to date. We systemically reviewed (non-) randomized trials that examine differences in health-risk behaviors between an experimental group receiving an intervention with exposure to a cue-reminder and a control group receiving the intervention without such cue. Six studies were eligible for inclusion. The studies differed in sample and research design, and how the cue-reminder was applied. One study demonstrated a positive and small effect, and one study found a negative medium effect of the cue-reminder. In the remaining studies, the effect sizes were positive but non-significant. It is unclear whether complementing health-risk behavior interventions with cue-reminders increases the effectiveness of these interventions. Further investigation and experimentation into the efficiency and effectiveness of cue-reminders is needed before health-risk behavior interventions are complemented with cue-reminders.
+AB  - Introduction: It has been proposed that the use of cue-reminders may increase the effectiveness of interventions that aim to prevent health-risk behaviors (i.e., having unsafe sex, unhealthy dietary intake, lack of physical activity, and substance use). The aim of this systematic review was to explore whether there is evidence supporting this proposition, and to explore how cue-reminders are applied in health-risk behavior interventions to date. Method: We systemically reviewed (non-) randomized trials that examine differences in health-risk behaviors between an experimental group receiving an intervention with exposure to a cue-reminder and a control group receiving the intervention without such cue. Results: Six studies were eligible for inclusion. The studies differed in sample and research design, and how the cue-reminder was applied. One study demonstrated a positive and small effect, and one study found a negative medium effect of the cue-reminder. In the remaining studies, the effect sizes were positive but non-significant. Discussion: It is unclear whether complementing health-risk behavior interventions with cue-reminders increases the effectiveness of these interventions. Further investigation and experimentation into the efficiency and effectiveness of cue-reminders is needed before health-risk behavior interventions are complemented with cue-reminders.
 AU  - van Leeuwen, Lonneke
 AU  - Onrust, Simone
 AU  - van den Putte, Bas
@@ -1710,13 +1745,14 @@ KW  - health promotion
 KW  - health-risk behaviors
 KW  - intervention programs
 KW  - reminder cue
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6524686
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6524686/
+L2  - https://pubmed.ncbi.nlm.nih.gov/31134173/
 L2  - https://europepmc.org/article/PMC/PMC6524686
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F390441
-L2  - https://www.frontiersin.org/articles/10.3389/fpubh.2019.00097/pdf
 L2  - http://dspace.library.uu.nl/handle/1874/390441
+L2  - https://www.frontiersin.org/articles/10.3389/fpubh.2019.00097/pdf
 L2  - https://www.frontiersin.org/articles/10.3389/fpubh.2019.00097/full
 L2  - https://repository.ubn.ru.nl/handle/2066/203412
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Arepository.ubn.ru.nl%3A2066%2F203412
 PB  - Frontiers Media SA
 PY  - 2019
 SN  - 22962565
@@ -1740,20 +1776,20 @@ EP  - 21
 ID  - 049-235-985-072-660
 IS  - 5
 JF  - PloS one
-L1  - https://repub.eur.nl/pub/107150/REPUB_107150-OA.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/29795616
-L2  - https://europepmc.org/article/MED/29795616
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967732/
-L2  - https://researchinformation.amsterdamumc.org/en/publications/health-related-quality-of-life-in-adults-after-burn-injuries-a-sy
-L2  - http://ui.adsabs.harvard.edu/abs/2018PLoSO..1397507S/abstract
-L2  - https://dx.plos.org/10.1371/journal.pone.0197507
 L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197507
-L2  - https://research.vumc.nl/en/publications/health-related-quality-of-life-in-adults-after-burn-injuries-a-sy
-L2  - http://dspace.library.uu.nl/handle/1874/369836
-L2  - https://doaj.org/article/157308ff5b7a4cf0925dc9d1fef30a8e
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967732/
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/29795616
 L2  - https://repub.eur.nl/pub/107150
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.atira.dk%3Apublications%2F4f773b1e-bfaa-4cba-ad6a-462e7d5c0752
 L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0197507&type=printable
+L2  - https://research.vumc.nl/en/publications/health-related-quality-of-life-in-adults-after-burn-injuries-a-sy
+L2  - https://doaj.org/article/157308ff5b7a4cf0925dc9d1fef30a8e
+L2  - https://dx.plos.org/10.1371/journal.pone.0197507
+L1  - https://repub.eur.nl/pub/107150/REPUB_107150-OA.pdf
+L2  - http://dspace.library.uu.nl/handle/1874/369836
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5967732/
+L2  - https://europepmc.org/article/MED/29795616
+L2  - http://ui.adsabs.harvard.edu/abs/2018PLoSO..1397507S/abstract
+L2  - https://pubmed.ncbi.nlm.nih.gov/29795616/
 L2  - https://core.ac.uk/download/158600741.pdf
 PB  - Public Library of Science
 PY  - 2018
@@ -1772,10 +1808,9 @@ EP  - 572
 ID  - 049-286-329-480-789
 IS  - 10
 JF  - Psychiatry and clinical neurosciences
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7590192
-L2  - https://pubmed.ncbi.nlm.nih.gov/32657502/
 L2  - https://onlinelibrary.wiley.com/doi/10.1111/pcn.13113
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/32657502
+L2  - https://pubmed.ncbi.nlm.nih.gov/32657502/
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7590192
 PB  - Wiley-Blackwell
 PY  - 2020
 SN  - 14401819
@@ -1805,15 +1840,17 @@ KW  - School-aged children
 KW  - Sleep characteristics
 KW  - Sleep problems
 KW  - Systematic review
-L2  - https://www.sciencedirect.com/science/article/pii/S1087079221000320
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Ascholarlypublications.universiteitleiden.nl%3Aitem_3209336
 L2  - https://pubmed.ncbi.nlm.nih.gov/33611088/
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/33611088
+L2  - https://www.sciencedirect.com/science/article/pii/S1087079221000320
+L2  - http://pubmed.ncbi.nlm.nih.gov/33611088/
 PB  - W.B. Saunders Ltd
 PY  - 2021
 SN  - 15322955
 SN  - 10870792
 SP  - 101447
-TI  - The relationship between preterm birth and sleep in children at school age: A systematic review.
+TI  - The relationship between preterm birth and sleep in children at school age: A systematic review
 UR  - https://lens.org/049-379-768-446-606
 VL  - 57
 ER  - 
@@ -1831,15 +1868,15 @@ EP  - 723
 ID  - 050-664-124-893-900
 IS  - 3
 JF  - Sports medicine (Auckland, N.Z.)
-L2  - https://link.springer.com/article/10.1007/s40279-017-0833-9
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F364358
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/29249084
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/29249084
-L2  - https://europepmc.org/articles/PMC5808052
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs40279-017-0833-9.pdf
-L2  - http://dspace.library.uu.nl/handle/1874/364358
-L2  - https://link.springer.com/article/10.1007/s40279-017-0833-9/fulltext.html
 L2  - https://pubmed.ncbi.nlm.nih.gov/29249084/
+L2  - https://link.springer.com/article/10.1007/s40279-017-0833-9
+L2  - https://europepmc.org/article/MED/29249084
 L2  - https://paperity.org/p/85695882/return-to-sport-in-athletes-with-midportion-achilles-tendinopathy-a-qualitative
+L2  - https://link.springer.com/article/10.1007/s40279-017-0833-9/fulltext.html
+L2  - http://dspace.library.uu.nl/handle/1874/364358
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs40279-017-0833-9.pdf
 PB  - Springer International Publishing AG
 PY  - 2017
 SN  - 11792035
@@ -1878,16 +1915,15 @@ KW  - MAXILLOFACIAL SURGERY
 KW  - SYSTEMATIC REVIEW
 KW  - TRISMUS
 KW  - [18F]‐NAF PET/CT
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124206
-L2  - https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm4.10008
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adare.uva.nl%3Apublications%2Ff8d1ab1a-57e0-47aa-b819-e73cf89e6292
 L1  - https://asbmr.onlinelibrary.wiley.com/doi/pdf/10.1002/jbm4.10008
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124206/
 L2  - https://onlinelibrary.wiley.com/doi/full/10.1002/jbm4.10008
-L2  - https://research.vumc.nl/en/publications/flare-up-after-maxillofacial-surgery-in-a-patient-with-fibrodyspl
-L2  - https://asbmr.onlinelibrary.wiley.com/doi/full/10.1002/jbm4.10008
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adare.uva.nl%3Apublications%2Ff8d1ab1a-57e0-47aa-b819-e73cf89e6292
 L1  - https://pure.uva.nl/ws/files/32346732/Eekhoff_et_al_2018_JBMR_Plus.pdf
-L2  - https://dare.uva.nl/personal/pure/en/publications/flareup-after-maxillofacial-surgery-in-a-patient-with-fibrodysplasia-ossicans-progressiva%28f8d1ab1a-57e0-47aa-b819-e73cf89e6292%29.html
 L2  - https://europepmc.org/abstract/MED/30283890
+L2  - https://research.vumc.nl/en/publications/flare-up-after-maxillofacial-surgery-in-a-patient-with-fibrodyspl
+L2  - https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm4.10008
+L2  - https://asbmr.onlinelibrary.wiley.com/doi/full/10.1002/jbm4.10008
 PB  - Wiley
 PY  - 2017
 SN  - 24734039
@@ -1917,14 +1953,14 @@ KW  - missing heritability
 KW  - multifactorial variable
 KW  - optimum curve
 KW  - systematic review
-L2  - https://www.mdpi.com/1422-0067/20/20/5104/htm
-L2  - https://pubmed.ncbi.nlm.nih.gov/31618836/
+L1  - https://www.mdpi.com/1422-0067/20/20/5104/pdf
+L2  - https://research.vu.nl/en/publications/tackling-missing-heritability-by-use-of-an-optimum-curve-a-system
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Ascholarlypublications.universiteitleiden.nl%3Aitem_2914931
 L2  - http://dspace.library.uu.nl/handle/1874/392000
 L2  - https://europepmc.org/abstract/MED/31618836
-L2  - https://research.vu.nl/en/publications/tackling-missing-heritability-by-use-of-an-optimum-curve-a-system
+L2  - https://pubmed.ncbi.nlm.nih.gov/31618836/
+L2  - https://www.mdpi.com/1422-0067/20/20/5104/htm
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6829377
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F392000
-L1  - https://www.mdpi.com/1422-0067/20/20/5104/pdf
 PB  - Multidisciplinary Digital Publishing Institute (MDPI)
 PY  - 2019
 SN  - 14220067
@@ -1971,8 +2007,9 @@ EP  - 10
 ID  - 058-895-823-408-950
 IS  - 1
 JF  - Evidence-based Preclinical Medicine
-L2  - https://onlinelibrary.wiley.com/doi/full/10.1002/ebm2.4
 L2  - http://www.dcn.ed.ac.uk/camarades/files/van%20Hout%20et%20al.%20-%202014%20-%20Evidence-based%20Preclinical%20Medicine.pdf
+L2  - https://onlinelibrary.wiley.com/doi/full/10.1002/ebm2.4
+L2  - http://onlinelibrary.wiley.com/doi/10.1002/ebm2.4/full
 PB  - Wiley
 PY  - 2014
 SN  - 2054703x
@@ -1995,20 +2032,22 @@ EP  - 8
 ID  - 059-276-745-883-10X
 IS  - 3
 JF  - PLoS biology
-L2  - http://www.research.ed.ac.uk/portal/files/8225089/Sena_et_al_2010.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/20361022
-L2  - https://dx.plos.org/10.1371/journal.pbio.1000344
-L2  - https://www.research.ed.ac.uk/portal/files/8225089/Sena_et_al_2010.pdf
-L1  - https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1017&context=valaexp
-L2  - https://minerva-access.unimelb.edu.au/handle/11343/263896
-L2  - https://ideas.repec.org/a/plo/pbio00/1000344.html
-L2  - https://pubmed.ncbi.nlm.nih.gov/20361022/
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/20361022
 L2  - https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000344
-L2  - http://core.ac.uk/display/28969820
-L2  - https://paperity.org/p/60865558/publication-bias-in-reports-of-animal-stroke-studies-leads-to-major-overstatement-of
-L2  - https://www.wellbeingintlstudiesrepository.org/valaexp/17
-L2  - https://animalstudiesrepository.org/valaexp/17/
+L2  - http://www.dcn.ed.ac.uk/camarades//files/PLOS_Biology_PubBias.pdf
+L2  - https://www.rug.nl/research/portal/en/publications/publication-bias-in-reports-of-animal-stroke-studies-leads-to-major-overstatement-of-efficacy(243d757a-b23e-4b13-82a0-a0a85e2af0c3).html
+L2  - https://core.ac.uk/display/28969820
+L1  - https://www.pure.ed.ac.uk/ws/files/8225089/Sena_et_al_2010.pdf
+L2  - https://ideas.repec.org/a/plo/pbio00/1000344.html
+L2  - https://www.research.ed.ac.uk/portal/files/8225089/Sena_et_al_2010.pdf
+L2  - https://pubmed.ncbi.nlm.nih.gov/20361022/
+L2  - https://www.research.ed.ac.uk/en/publications/publication-bias-in-reports-of-animal-stroke-studies-leads-to-maj
 L2  - https://europepmc.org/articles/PMC2846857
+L2  - https://www.wellbeingintlstudiesrepository.org/valaexp/17
+L1  - https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1017&context=valaexp
+L2  - https://animalstudiesrepository.org/valaexp/17/
+L2  - https://dx.plos.org/10.1371/journal.pbio.1000344
+L2  - https://minerva-access.unimelb.edu.au/handle/11343/263896
 L2  - https://core.ac.uk/download/28969820.pdf
 PB  - Public Library of Science
 PY  - 2010
@@ -2050,17 +2089,16 @@ EP  - 9
 ID  - 065-377-632-328-388
 IS  - 7
 JF  - PloS one
+L2  - https://europepmc.org/article/PMC/PMC7351499
 L2  - https://EconPapers.repec.org/RePEc:plo:pone00:0235535
-L2  - https://ui.adsabs.harvard.edu/abs/2020PLoSO..1535535R/abstract
-L2  - https://dx.plos.org/10.1371/journal.pone.0235535
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/32650340
-L2  - https://pubmed.ncbi.nlm.nih.gov/32650340/
-L2  - https://figshare.com/collections/The_effect_of_the_CONSORT_statement_on_the_amount_of_unclear_Risk_of_Bias_reporting_in_Cochrane_Systematic_Reviews/5056499
-L2  - https://ideas.repec.org/a/plo/pone00/0235535.html
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351499
 L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235535
 L2  - https://plos.figshare.com/collections/The_effect_of_the_CONSORT_statement_on_the_amount_of_unclear_Risk_of_Bias_reporting_in_Cochrane_Systematic_Reviews/5056499
-L2  - https://europepmc.org/article/PMC/PMC7351499
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351499
+L2  - https://figshare.com/collections/The_effect_of_the_CONSORT_statement_on_the_amount_of_unclear_Risk_of_Bias_reporting_in_Cochrane_Systematic_Reviews/5056499
+L2  - https://ui.adsabs.harvard.edu/abs/2020PLoSO..1535535R/abstract
+L2  - https://ideas.repec.org/a/plo/pone00/0235535.html
+L2  - https://dx.plos.org/10.1371/journal.pone.0235535
+L2  - https://pubmed.ncbi.nlm.nih.gov/32650340/
 PB  - Public Library of Science
 PY  - 2020
 SN  - 19326203
@@ -2089,10 +2127,12 @@ KW  - Electrophysiology
 KW  - Intermediate phenotypes
 KW  - SNP
 KW  - Schizophrenia
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0278584620303171
+L2  - https://www.sciencedirect.com/science/article/pii/S0278584620303171
+L2  - https://pubmed.ncbi.nlm.nih.gov/32525059/
+L2  - http://pubmed.ncbi.nlm.nih.gov/32525059/
 L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2F0502655b-cba4-4b85-8805-c24fd8e56ac0
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/32525059
-L2  - https://pubmed.ncbi.nlm.nih.gov/32525059/
-L2  - https://www.sciencedirect.com/science/article/pii/S0278584620303171
 PB  - Elsevier Inc.
 PY  - 2020
 SN  - 18784216
@@ -2116,14 +2156,16 @@ KW  - Awareness
 KW  - Fear conditioning
 KW  - Meta-analysis
 KW  - P-curve
-L2  - https://europepmc.org/article/MED/31747553
-L2  - https://osf.io/dy4ac/
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0149763419303100
 L2  - https://pubmed.ncbi.nlm.nih.gov/31747553/
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/31747553
+L2  - https://europepmc.org/article/MED/31747553
+L2  - https://www.sciencedirect.com/science/article/pii/S0149763419303100
+L2  - https://osf.io/dy4ac/#!
 L2  - https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202002237651316847
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Atilburguniversity.edu%3Apublications%2Fa4685f04-38b4-4794-964b-a2ec33a067e7
 L2  - https://research.tilburguniversity.edu/en/publications/a-systematic-review-and-meta-analysis-of-the-evidence-for-unaware
 L2  - https://pure.uvt.nl/ws/files/32799881/MCP_Mertens_a_systematic_review_and_meta_analysis_NaBR_2020.pdf
-L2  - https://www.sciencedirect.com/science/article/pii/S0149763419303100
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/31747553
 PB  - Elsevier Limited
 PY  - 2019
 SN  - 18737528
@@ -2163,12 +2205,13 @@ KW  - mouse
 KW  - pain
 KW  - rat
 KW  - systematic review
-L2  - https://www.frontiersin.org/articles/10.3389/fvets.2020.00411/pdf
-L2  - https://pubmed.ncbi.nlm.nih.gov/32793645/
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/32793645
-L2  - https://www.frontiersin.org/articles/10.3389/fvets.2020.00411/full
 L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387666
+L2  - https://www.frontiersin.org/articles/10.3389/fvets.2020.00411/full
+L2  - https://pubmed.ncbi.nlm.nih.gov/32793645/
+L2  - https://www.frontiersin.org/article/10.3389/fvets.2020.00411/full
 L2  - https://repository.ubn.ru.nl/handle/2066/225409
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Arepository.ubn.ru.nl%3A2066%2F225409
 PB  - Frontiers Media SA
 PY  - 2020
 SN  - 22971769
@@ -2188,7 +2231,7 @@ AU  - Feenstra, Talitha L
 AU  - Moons, Karel G.M.
 AU  - Slieker, Roderick C.
 AU  - Herings, Ron M C
-AU  - Elders, Petra J.M.
+AU  - Elders, Petra J M
 AU  - Beulens, Joline W.J.
 CY  - Germany
 DA  - 2020/04/03
@@ -2203,19 +2246,19 @@ KW  - Retinal screening
 KW  - Retinopathy
 KW  - Systematic review
 KW  - Type 2 diabetes
-L2  - https://link.springer.com/article/10.1007/s00125-020-05134-3
+L1  - https://pure.rug.nl/ws/files/121783111/Prediction_models_for_development_of_retinopathy_in_people_with_type_2_diabetes_systematic_review_and_external_validation_in_a_Dutch_primary_care_setting.pdf
+L2  - https://pubmed.ncbi.nlm.nih.gov/32246157/
+L2  - https://research.vumc.nl/en/publications/prediction-models-for-development-of-retinopathy-in-people-with-t
 L2  - https://research.rug.nl/en/publications/prediction-models-for-development-of-retinopathy-in-people-with-t
 L2  - https://researchportal.vub.be/en/publications/prediction-models-for-development-of-retinopathy-in-people-with-t
-L2  - https://rivm.openrepository.com/handle/10029/624326
-L1  - https://link.springer.com/content/pdf/10.1007/s00125-020-05134-3.pdf
-L2  - https://europepmc.org/article/MED/32246157
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/32246157
-L2  - https://pubmed.ncbi.nlm.nih.gov/32246157/
-L2  - https://www.rug.nl/research/portal/publications/prediction-models-for-development-of-retinopathy-in-people-with-type-2-diabetes(52d8c99a-7171-4d1d-882a-2db9d152df8f).html
-L2  - https://www.rug.nl/research/portal/files/121783111/Prediction_models_for_development_of_retinopathy_in_people_with_type_2_diabetes_systematic_review_and_external_validation_in_a_Dutch_primary_care_setting.pdf
-L1  - https://pure.rug.nl/ws/files/121783111/Prediction_models_for_development_of_retinopathy_in_people_with_type_2_diabetes_systematic_review_and_external_validation_in_a_Dutch_primary_care_setting.pdf
-L2  - https://research.vumc.nl/en/publications/prediction-models-for-development-of-retinopathy-in-people-with-t
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228897
+L1  - https://cris.vub.be/ws/files/64195658/Heijden2020_Article_PredictionModelsForDevelopment.pdf
+L2  - https://rivm.openrepository.com/handle/10029/624326
+L2  - https://europepmc.org/article/MED/32246157
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.rug.nl%3Apublications%2F52d8c99a-7171-4d1d-882a-2db9d152df8f
+L2  - https://link.springer.com/article/10.1007/s00125-020-05134-3
+L2  - https://www.rug.nl/research/portal/files/121783111/Prediction_models_for_development_of_retinopathy_in_people_with_type_2_diabetes_systematic_review_and_external_validation_in_a_Dutch_primary_care_setting.pdf
+L1  - https://link.springer.com/content/pdf/10.1007/s00125-020-05134-3.pdf
 PB  - Springer Verlag
 PY  - 2020
 SN  - 14320428
@@ -2239,13 +2282,15 @@ EP  - 247
 ID  - 067-553-619-700-643
 IS  - 1
 JF  - Archives of gynecology and obstetrics
-L2  - https://rd.springer.com/article/10.1007/s00404-012-2294-6
 L1  - https://link.springer.com/content/pdf/10.1007%2Fs00404-012-2294-6.pdf
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374120/
-L2  - https://core.ac.uk/display/81727933
-L2  - https://paperity.org/p/29879020/mode-of-delivery-in-non-cephalic-presenting-twins-a-systematic-review
-L2  - https://link.springer.com/article/10.1007/s00404-012-2294-6
 L2  - http://europepmc.org/articles/PMC3374120
+L2  - https://link.springer.com/article/10.1007/s00404-012-2294-6/fulltext.html
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374120/
+L2  - https://paperity.org/p/29879020/mode-of-delivery-in-non-cephalic-presenting-twins-a-systematic-review
+L2  - https://pubmed.ncbi.nlm.nih.gov/22465994/
+L2  - https://rd.springer.com/article/10.1007/s00404-012-2294-6
+L2  - https://link.springer.com/article/10.1007/s00404-012-2294-6
+L2  - https://core.ac.uk/display/81727933
 PB  - Springer Verlag
 PY  - 2012
 SN  - 14320711
@@ -2274,13 +2319,13 @@ KW  - Craniectomy
 KW  - Craniotomy
 KW  - Pediatrics
 KW  - Posterior fossa surgery
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/33538867
-L1  - https://www.zora.uzh.ch/id/eprint/199454/1/Slot2021_Article_CerebrospinalFluidLeakageAfter.pdf
-L2  - https://pubmed.ncbi.nlm.nih.gov/33538867/
-L2  - https://europepmc.org/article/PMC/PMC8084768
 L2  - https://www.zora.uzh.ch/id/eprint/199454/
-L2  - https://link.springer.com/article/10.1007/s00381-021-05036-8/tables/1
+L2  - https://pubmed.ncbi.nlm.nih.gov/33538867/
 L1  - https://link.springer.com/content/pdf/10.1007/s00381-021-05036-8.pdf
+L2  - https://europepmc.org/article/PMC/PMC8084768
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/33538867
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/33538867
+L2  - https://link.springer.com/article/10.1007/s00381-021-05036-8
 PB  - Springer Verlag
 PY  - 2021
 SN  - 14330350
@@ -2304,11 +2349,11 @@ DO  - 10.1371/journal.pone.0188810
 ID  - 069-167-374-620-000
 IS  - 12
 JF  - PloS one
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/29267302
 L2  - https://dx.plos.org/10.1371/journal.pone.0188810
-L2  - http://europepmc.org/abstract/MED/29267302
-L2  - http://ui.adsabs.harvard.edu/abs/2017PLoSO..1288810S/abstract
 L2  - https://core.ac.uk/display/149319261
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/29267302
+L2  - http://ui.adsabs.harvard.edu/abs/2017PLoSO..1288810S/abstract
+L2  - http://europepmc.org/abstract/MED/29267302
 PB  - Public Library of Science
 PY  - 2017
 SN  - 19326203
@@ -2338,13 +2383,12 @@ KW  - Hospitalization
 KW  - Mortality
 KW  - Pain Management
 KW  - Rib Fractures
-L2  - https://europepmc.org/article/MED/29411048
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/29411048
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs00068-018-0918-7.pdf
-L2  - https://paperity.org/p/86051428/comparison-of-analgesic-interventions-for-traumatic-rib-fractures-a-systematic-review-and
 L2  - https://pubmed.ncbi.nlm.nih.gov/29411048/
+L2  - https://europepmc.org/article/MED/29411048
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs00068-018-0918-7.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/29411048
 L2  - https://link.springer.com/article/10.1007/s00068-018-0918-7
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6689037/
+L2  - https://paperity.org/p/86051428/comparison-of-analgesic-interventions-for-traumatic-rib-fractures-a-systematic-review-and
 PB  - Urban und Vogel
 PY  - 2018
 SN  - 18639941
@@ -2377,17 +2421,17 @@ KW  - Diffuse large B-cell lymphoma
 KW  - Meta-analysis
 KW  - Positron-emission tomography
 KW  - Systematic review
-L2  - https://researchinformation.amsterdamumc.org/en/publications/predictive-value-of-interim-positron-emission-tomography-in-diffu
-L2  - https://link.springer.com/article/10.1007/s00259-018-4103-3/fulltext.html
+L2  - https://dspace.library.uu.nl/bitstream/1874/378307/1/burggraaff.pdf
+L2  - http://dspace.library.uu.nl/handle/1874/378307
 L2  - https://link.springer.com/article/10.1007/s00259-018-4103-3
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F378307
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/30141066
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/30141066
+L2  - https://link.springer.com/article/10.1007/s00259-018-4103-3/fulltext.html
 L1  - https://link.springer.com/content/pdf/10.1007/s00259-018-4103-3.pdf
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267696
+L2  - https://pubmed.ncbi.nlm.nih.gov/30141066/
 L2  - https://europepmc.org/article/MED/30141066
 L2  - https://research.vumc.nl/en/publications/predictive-value-of-interim-positron-emission-tomography-in-diffu
-L2  - https://pubmed.ncbi.nlm.nih.gov/30141066/
-L2  - http://dspace.library.uu.nl/handle/1874/378307
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F378307/coll/person/id/76
 PB  - Springer Verlag
 PY  - 2018
 SN  - 16197089
@@ -2417,11 +2461,13 @@ KW  - left ventricular ejection fraction
 KW  - myocardial infarction
 KW  - stem cells
 KW  - strain
-L2  - http://dspace.library.uu.nl/handle/1874/390207
-L2  - https://pubmed.ncbi.nlm.nih.gov/31314949/
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/31314949
-L2  - https://europepmc.org/abstract/MED/31314949
 L2  - https://onlinelibrary.wiley.com/doi/full/10.1002/term.2937
+L2  - http://dspace.library.uu.nl/handle/1874/390207
+L2  - http://pubmed.ncbi.nlm.nih.gov/31314949/
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/31314949
+L2  - https://pubmed.ncbi.nlm.nih.gov/31314949/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F390207
+L2  - https://europepmc.org/abstract/MED/31314949
 L2  - https://www.mendeley.com/catalogue/c79cb87b-78e1-3b37-a998-f9208b4b9091/
 PB  - John Wiley and Sons Ltd
 PY  - 2019
@@ -2464,10 +2510,13 @@ KW  - granulomatous lymphocytic interstitial lung disease
 KW  - immunodeficiency
 KW  - systematic review
 KW  - treatment
-L2  - https://www.frontiersin.org/articles/10.3389/fimmu.2021.606099/full
+L2  - https://research.rug.nl/en/publications/treatment-strategies-for-glild-in-common-variable-immunodeficienc
+L2  - https://pubmed.ncbi.nlm.nih.gov/33936030/
 L2  - https://europepmc.org/article/MED/33936030
-L2  - https://pubmed.ncbi.nlm.nih.gov/33936030
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086379
+L2  - https://www.narcis.nl/publication/RecordID/oai:pure.rug.nl:publications%2F68e5cab6-aa31-439a-bb25-f017f79a4b70
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086379/
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086379/
+L2  - https://www.frontiersin.org/articles/10.3389/fimmu.2021.606099/full
 PB  - Frontiers Media S.A.
 PY  - 2021
 SN  - 16643224
@@ -2496,15 +2545,16 @@ KW  - lymph node metastasis
 KW  - prognosis
 KW  - response to chemo(radio)therapy
 KW  - survival
-L2  - https://europepmc.org/abstract/MED/27852047
-L2  - https://www.oncotarget.com/fulltext/13328
-L1  - https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=13328&path%5B%5D=42305
-L2  - https://pubmed.ncbi.nlm.nih.gov/27852047/
-L2  - https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=13328
-L2  - http://dspace.library.uu.nl/handle/1874/350482
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/27852047
 L2  - https://dspace.library.uu.nl/bitstream/1874/350482/1/Prognostic.pdf
-L2  - https://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=13328&path%5B%5D=42306
+L2  - https://www.oncotarget.com/fulltext/13328
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F350482
+L2  - https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=13328
+L2  - https://europepmc.org/articles/PMC5354930
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5354930
+L2  - https://pubmed.ncbi.nlm.nih.gov/27852047/
+L2  - https://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path%5B%5D=13328&path%5B%5D=42306
+L2  - http://dspace.library.uu.nl/handle/1874/350482
 PB  - Impact Journals
 PY  - 2016
 SN  - 19492553
@@ -2535,9 +2585,11 @@ KW  - PCV
 KW  - PPSV
 KW  - Pneumococcal vaccination
 L2  - https://europepmc.org/article/MED/30122649
-L2  - https://www.sciencedirect.com/science/article/pii/S0264410X18310089
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/30122649
 L2  - https://pubmed.ncbi.nlm.nih.gov/30122649/
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/30122649
+L2  - https://pubag.nal.usda.gov/catalog/6102459
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2Feaf21b29-941f-4abf-a403-f9a49ff6732f
+L2  - https://www.sciencedirect.com/science/article/pii/S0264410X18310089
 L2  - https://researchinformation.amsterdamumc.org/en/publications/the-effect-of-immunosuppressive-agents-on-immunogenicity-of-pneum
 PB  - Elsevier BV
 PY  - 2018
@@ -2569,14 +2621,15 @@ KW  - clinical trial
 KW  - stroma
 KW  - systematic review
 KW  - targeted therapy
-L2  - https://www.mdpi.com/2072-6694/11/5/588/htm
-L2  - https://research.vumc.nl/en/publications/clinical-trials-targeting-the-stroma-in-pancreatic-cancer-a-syste
-L2  - https://repub.eur.nl/pub/117878
-L2  - https://pubmed.ncbi.nlm.nih.gov/31035512/
-L1  - https://www.mdpi.com/2072-6694/11/5/588/pdf
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/31035512
+L2  - https://europepmc.org/abstract/MED/31035512
 L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.amc.nl%3Apublications%2F2c76af9f-c6b2-4d57-9aef-ac05545bacb2
-L2  - https://europepmc.org/article/MED/31035512
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/31035512
+L2  - https://pubmed.ncbi.nlm.nih.gov/31035512/
+L2  - https://www.mdpi.com/2072-6694/11/5/588
+L1  - https://repub.eur.nl/pub/117878/RePub-117878-OA.pdf
+L2  - https://repub.eur.nl/pub/117878
+L2  - https://research.vumc.nl/en/publications/clinical-trials-targeting-the-stroma-in-pancreatic-cancer-a-syste
+L1  - https://www.mdpi.com/2072-6694/11/5/588/pdf
 L2  - https://core.ac.uk/download/224788101.pdf
 PB  - Multidisciplinary Digital Publishing Institute (MDPI)
 PY  - 2019
@@ -2605,11 +2658,14 @@ KW  - Brodie's abscess
 KW  - case report
 KW  - osteomyelitis
 KW  - systematic review
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/30755846
-L2  - https://jbji.copernicus.org/articles/4/33/2019/
-L2  - http://dspace.library.uu.nl/handle/1874/381392
 L2  - https://pubmed.ncbi.nlm.nih.gov/30755846/
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/30755846
+L2  - http://dspace.library.uu.nl/handle/1874/381392
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367194
+L2  - https://europepmc.org/article/MED/30755846
 L1  - https://jbji.copernicus.org/articles/4/33/2019/jbji-4-33-2019.pdf
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F381392
+L2  - https://jbji.copernicus.org/articles/4/33/2019/
 PB  - Copernicus GmbH
 PY  - 2019
 SN  - 22063552
@@ -2641,12 +2697,11 @@ KW  - microdialysis
 KW  - monoamines
 KW  - network meta-analysis
 KW  - sleep deprivation
-L2  - http://dspace.library.uu.nl/handle/1874/377905
-L2  - https://www.jcircadianrhythms.com/article/10.5334/jcr.174/
-L1  - https://pure.knaw.nl/ws/files/9489987/Menon2019.pdf
-L2  - https://dx.doi.org/10.5334/jcr.174
 L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F377905
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/30671123
+L2  - https://www.jcircadianrhythms.com/article/10.5334/jcr.174/
+L2  - http://dspace.library.uu.nl/handle/1874/377905
+L2  - https://dx.doi.org/10.5334/jcr.174
 PB  - BioMed Central
 PY  - 2019
 SN  - 17403391
@@ -2666,7 +2721,7 @@ AU  - Thomeer, Hans G X M
 CY  - Germany
 DA  - 2021/02/01
 DO  - 10.1007/s00405-021-06627-6
-EP  - 9
+EP  - 3651
 ID  - 084-036-012-777-223
 IS  - 10
 JF  - European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery
@@ -2676,24 +2731,26 @@ KW  - Retrosigmoid approach
 KW  - Surgical techniques
 KW  - Translabyrinthine approach
 KW  - Vestibular schwannoma
+L2  - http://europepmc.org/article/MED/33523284
 L2  - https://www.scilit.net/article/470aacafcd1bf7035d5c014d08fbced3?action=show-references
-L2  - https://link.springer.com/article/10.1007/s00405-021-06627-6
 L1  - https://link.springer.com/content/pdf/10.1007/s00405-021-06627-6.pdf
+L2  - https://link.springer.com/article/10.1007/s00405-021-06627-6
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8382607
 PB  - Springer Verlag
 PY  - 2021
 SN  - 14344726
 SN  - 09374477
-SP  - 1
+SP  - 3643
 TI  - Postoperative headache after surgical treatment of cerebellopontine angle tumors: a systematic review.
 UR  - https://lens.org/084-036-012-777-223
 VL  - 278
 ER  - 
 TY  - JOUR
 AB  - Combined sternal and spinal fractures are rare traumatic injuries with significant risk of spinal and thoracic wall instability. Controversy remains with regard to treatment strategies and the biomechanical need for sternal fixation to achieve spinal healing. The present study aimed to assess outcomes of sternovertebral fracture treatment. A systematic review of literature on the treatment of traumatic sternovertebral fractures was conducted. Original studies published after 1990, reporting sternal and spinal healing or stability were included. Studies not reporting treatment outcomes were excluded. Six studies were included in this review, with a total study population of 98 patients: 2 case series, 3 case reports, and 1 retrospective cohort study. 10 per cent of sternal fractures showed displacement. Most spinal fractures were located in the thoracic spine and were AOSpine type A (51%), type B (35%), or type C (14%). 14 per cent of sternal fractures and 49% of spinal fractures were surgically treated. Sternal treatment failure occurred in 5% of patients and biomechanical spinal failure in 8%. There were no differences in treatment failure between conservative and operative treatment. Literature on traumatic sternovertebral fracture treatment is sparse. Findings indicate that in most patients, sternal fixation is not required to achieve sternal and spinal stability. However, results of the current review should be cautiously interpreted, since most included studies were of poor quality.
-AU  - Klei, Dorine S.
+AU  - Klei, Dorine S
 AU  - Oner, F. Cumhur
 AU  - Leenen, Luke P. H.
-AU  - van Wessem, Karlijn J. P.
+AU  - van Wessem, Karlijn J P
 CY  - Germany
 DA  - 2020/10/01
 DO  - 10.1007/s00068-020-01505-y
@@ -2706,9 +2763,11 @@ KW  - Sternovertebral fractures
 KW  - Systematic review
 KW  - Traumatic sternal and spinal fractures
 KW  - Treatment
-L1  - https://link.springer.com/content/pdf/10.1007/s00068-020-01505-y.pdf
 L2  - https://link.springer.com/article/10.1007/s00068-020-01505-y
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/33006034
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8322016
+L2  - https://pubmed.ncbi.nlm.nih.gov/33006034/
+L1  - https://link.springer.com/content/pdf/10.1007/s00068-020-01505-y.pdf
 PB  - Urban und Vogel
 PY  - 2020
 SN  - 18639941
@@ -2730,14 +2789,15 @@ DO  - 10.1371/journal.pone.0136540
 ID  - 091-724-887-895-516
 IS  - 8
 JF  - PloS one
+L2  - http://dspace.library.uu.nl/handle/1874/332617
+L2  - https://dx.plos.org/10.1371/journal.pone.0136540
+L2  - http://ui.adsabs.harvard.edu/abs/2015PLoSO..1036540P/abstract
 L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F332617
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552785
-L2  - https://dx.plos.org/10.1371/journal.pone.0136540
-L2  - http://dspace.library.uu.nl/handle/1874/332617
-L2  - http://europepmc.org/articles/PMC4552785
 L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136540
-L2  - http://ui.adsabs.harvard.edu/abs/2015PLoSO..1036540P/abstract
 L2  - https://paperity.org/p/73917981/reporting-quality-of-systematic-reviews-and-meta-analyses-of-otorhinolaryngologic
+L2  - http://europepmc.org/articles/PMC4552785
+L2  - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136540
 PB  - Public Library of Science
 PY  - 2015
 SN  - 19326203
@@ -2768,14 +2828,16 @@ KW  - mHealth
 KW  - maternal
 KW  - neonatal
 KW  - providers of care
-L2  - https://europepmc.org/abstract/MED/27543152
-L2  - https://dspace.library.uu.nl/bitstream/1874/337816/1/2.pdf
-L2  - https://www.mendeley.com/catalogue/140c60ee-255e-36d4-a726-d89b455203de/
-L2  - https://www.jmir.org/2016/8/e226/
+L2  - https://www.jmir.org/2016/8/e226
+L2  - https://pubmed.ncbi.nlm.nih.gov/27543152/
+L2  - https://europepmc.org/article/MED/27543152
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/27543152
 L2  - http://dspace.library.uu.nl/handle/1874/337816
+L2  - https://dspace.library.uu.nl/bitstream/1874/337816/1/2.pdf
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/27543152
+L2  - https://www.mendeley.com/catalogue/140c60ee-255e-36d4-a726-d89b455203de/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F337816
 L2  - https://core.ac.uk/display/46177327
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F337816/coll/person/id/8
 PB  - Journal of medical Internet Research
 PY  - 2016
 SN  - 14388871
@@ -2804,12 +2866,11 @@ KW  - hospital
 KW  - proton pump inhibitor (PPI)
 KW  - stress ulcer prophylaxis (SUP)
 KW  - systematic review
-L2  - http://europepmc.org/article/MED/33532958
-L2  - http://www.ncbi.nlm.nih.gov/pubmed/33532958
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.rug.nl%3Apublications%2F7c743825-c56e-4512-ba41-b449079cf3bd
 L2  - https://link.springer.com/article/10.1007/s11606-020-06425-6
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8298652
-L2  - https://researchinformation.amsterdamumc.org/en/publications/reducing-inappropriate-proton-pump-inhibitors-use-for-stress-ulce
 L1  - https://link.springer.com/content/pdf/10.1007/s11606-020-06425-6.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8298652
+L2  - https://europepmc.org/article/MED/33532958
 L2  - https://research.rug.nl/en/publications/reducing-inappropriate-proton-pump-inhibitors-use-for-stress-ulce
 PB  - Springer Nature
 PY  - 2021
@@ -2847,15 +2908,13 @@ KW  - 18F-Fluorocholine
 KW  - Minimal invasive parathyroidectomy
 KW  - PET/CT
 KW  - Primary hyperparathyroidism
+L2  - https://paperity.org/p/75790130/use-of-pet-tracers-for-parathyroid-localization-a-systematic-review-and-meta-analysis
+L2  - https://europepmc.org/abstract/MED/27086309
 L2  - https://escholarship.org/uc/item/3bs1h1z5
 L2  - https://dspace.library.uu.nl/handle/1874/344897
-L2  - https://rd.springer.com/article/10.1007/s00423-016-1425-0
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/27086309
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F344897
 L1  - https://link.springer.com/content/pdf/10.1007%2Fs00423-016-1425-0.pdf
-L2  - http://europepmc.org/articles/PMC5086346
-L2  - https://paperity.org/p/75790130/use-of-pet-tracers-for-parathyroid-localization-a-systematic-review-and-meta-analysis
-L2  - https://link.springer.com/article/10.1007/s00423-016-1425-0/fulltext.html
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F344897
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/27086309
 L2  - https://link.springer.com/article/10.1007/s00423-016-1425-0
 L2  - https://pubmed.ncbi.nlm.nih.gov/27086309/
 PB  - Springer Verlag
@@ -2883,11 +2942,11 @@ KW  - collaboration synergy between HTA and regulatory agencies
 KW  - harmonization
 KW  - regulatory approval
 KW  - synergy
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/33178721
-L2  - https://www.frontiersin.org/articles/10.3389/fmed.2020.582634/full
-L2  - https://doaj.org/article/7babf9c46e814066a668254caacbc14b
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596325
 L2  - https://europepmc.org/article/MED/33178721
+L2  - https://www.frontiersin.org/articles/10.3389/fmed.2020.582634/full
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596325
+L2  - https://doaj.org/article/7babf9c46e814066a668254caacbc14b
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/33178721
 PB  - Frontiers Media SA
 PY  - 2020
 SN  - 2296858x
@@ -2907,6 +2966,8 @@ DO  - 10.1016/j.edurev.2020.100364
 ID  - 102-951-643-631-079
 JF  - Educational Research Review
 L2  - https://www.sciencedirect.com/science/article/pii/S1747938X20300531
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S1747938X20300531
+L2  - https://europepmc.org/article/PPR/PPR116978
 PB  - Elsevier BV
 PY  - 2020
 SN  - 1747938x
@@ -2926,10 +2987,10 @@ EP  - 931
 ID  - 102-971-390-208-827
 IS  - 6
 JF  - Public Administration Review
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F395234
 L1  - https://onlinelibrary.wiley.com/doi/pdf/10.1111/puar.13181
 L2  - http://dspace.library.uu.nl/handle/1874/395234
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F395234
-L2  - https://onlinelibrary.wiley.com/doi/full/10.1111/puar.13181
+L2  - https://onlinelibrary.wiley.com/doi/10.1111/puar.13181
 PB  - Wiley
 PY  - 2020
 SN  - 00333352
@@ -2964,12 +3025,13 @@ KW  - fetal growth restriction
 KW  - meta-analysis
 KW  - methyl donor
 KW  - pregnancy
-L1  - https://www.mdpi.com/2072-6643/12/9/2535/pdf
-L2  - https://repository.ubn.ru.nl/handle/2066/225492
-L2  - https://research.rug.nl/en/publications/prenatal-amino-acid-supplementation-to-improve-fetal-growth-a-sys
-L2  - https://www.mdpi.com/2072-6643/12/9/2535
 L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551332
+L1  - https://www.mdpi.com/2072-6643/12/9/2535/pdf
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.rug.nl%3Apublications%2F7032ffa8-bfca-451f-b4e8-4e340d8a371d
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/32825593
+L2  - https://repository.ubn.ru.nl/handle/2066/225492
+L2  - https://www.mdpi.com/2072-6643/12/9/2535
+L2  - https://research.rug.nl/en/publications/prenatal-amino-acid-supplementation-to-improve-fetal-growth-a-sys
 PB  - Multidisciplinary Digital Publishing Institute (MDPI)
 PY  - 2020
 SN  - 20726643
@@ -2979,7 +3041,7 @@ UR  - https://lens.org/103-004-307-195-256
 VL  - 12
 ER  - 
 TY  - JOUR
-AB  - To help researchers conduct a systematic review or meta-analysis as efficiently and transparently as possible, we designed a tool to accelerate the step of screening titles and abstracts. For many tasks—including but not limited to systematic reviews and meta-analyses—the scientific literature needs to be checked systematically. Scholars and practitioners currently screen thousands of studies by hand to determine which studies to include in their review or meta-analysis. This is error prone and inefficient because of extremely imbalanced data: only a fraction of the screened studies is relevant. The future of systematic reviewing will be an interaction with machine learning algorithms to deal with the enormous increase of available text. We therefore developed an open source machine learning-aided pipeline applying active learning: ASReview. We demonstrate by means of simulation studies that active learning can yield far more efficient reviewing than manual reviewing while providing high quality. Furthermore, we describe the options of the free and open source research software and present the results from user experience tests. We invite the community to contribute to open source projects such as our own that provide measurable and reproducible improvements over current practice. It is a challenging task for any research field to screen the literature and determine what needs to be included in a systematic review in a transparent way. A new open source machine learning framework called ASReview, which employs active learning and offers a range of machine learning models, can check the literature efficiently and systemically.
+AB  - To help researchers conduct a systematic review or meta-analysis as efficiently and transparently as possible, we designed a tool (ASReview) to accelerate the step of screening titles and abstracts. For many tasks - including but not limited to systematic reviews and meta-analyses - the scientific literature needs to be checked systematically. Currently, scholars and practitioners screen thousands of studies by hand to determine which studies to include in their review or meta-analysis. This is error prone and inefficient because of extremely imbalanced data: only a fraction of the screened studies is relevant. The future of systematic reviewing will be an interaction with machine learning algorithms to deal with the enormous increase of available text. We therefore developed an open source machine learning-aided pipeline applying active learning: ASReview. We demonstrate by means of simulation studies that ASReview can yield far more efficient reviewing than manual reviewing, while providing high quality. Furthermore, we describe the options of the free and open source research software and present the results from user experience tests. We invite the community to contribute to open source projects such as our own that provide measurable and reproducible improvements over current practice.
 AU  - van de Schoot, Rens
 AU  - de Bruin, Jonathan
 AU  - Schram, Raoul
@@ -2996,20 +3058,21 @@ AU  - Ma, Yongchao
 AU  - Fang, Qixiang
 AU  - Hindriks, Sybren
 AU  - Tummers, Lars
-AU  - Oberski, Daniel
+AU  - Oberski, Daniel L.
 DA  - 2021/02/01
 DO  - 10.1038/s42256-020-00287-7
 EP  - 133
 ID  - 106-059-195-106-980
 IS  - 2
 JF  - Nature Machine Intelligence
-L2  - https://www.nature.com/articles/s42256-020-00287-7
-L2  - https://www.nature.com/articles/s42256-020-00287-7.pdf
+L2  - https://ui.adsabs.harvard.edu/abs/2020arXiv200612166V/abstract
+L2  - https://arxiv.org/abs/2006.12166v3
+L1  - http://arxiv.org/pdf/2006.12166.pdf
 PB  - Springer Science and Business Media LLC
 PY  - 2021
 SN  - 25225839
 SP  - 125
-TI  - An open source machine learning framework for efficient and transparent systematic reviews
+TI  - Open Source Software for Efficient and Transparent Reviews
 UR  - https://lens.org/106-059-195-106-980
 VL  - 3
 ER  - 
@@ -3023,10 +3086,10 @@ DO  - 10.16966/2470-0983.102
 ID  - 106-099-734-347-430
 IS  - 1
 JF  - Pediatrics and Neonatal Nursing: Open Access ( ISSN 2470-0983 )
-L2  - https://dspace.library.uu.nl/bitstream/1874/332508/1/PNNOA_1_102.pdf
+L1  - http://www.sciforschenonline.org/journals/pediatrics-neonatal/article-data/PNNOA-1-102/PNNOA-1-102.pdf
 L2  - https://core.ac.uk/display/39824150
 L2  - https://www.sciforschenonline.org/journals/pediatrics-neonatal/PNNOA-1-102.php
-L1  - https://www.sciforschenonline.org/journals/pediatrics-neonatal/article-data/PNNOA-1-102/PNNOA-1-102.pdf
+L2  - https://dspace.library.uu.nl/bitstream/1874/332508/1/PNNOA_1_102.pdf
 L2  - https://dspace.library.uu.nl/handle/1874/332508
 PB  - Sci Forschen, Inc.
 PY  - 2015
@@ -3047,13 +3110,13 @@ EP  - 1375339
 ID  - 106-199-018-669-584
 IS  - sup1
 JF  - European journal of psychotraumatology
-L2  - http://dspace.library.uu.nl/handle/1874/361108
-L2  - http://europepmc.org/articles/PMC5678372
-L2  - https://www.tandfonline.com/doi/full/10.1080/20008198.2017.1375339
-L2  - https://dspace.library.uu.nl/bitstream/1874/361108/1/schoot.pdf
-L2  - https://psycnet.apa.org/doi/10.1080/20008198.2017.1375339
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5678372
 L2  - https://core.ac.uk/display/141649526
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F361108
+L2  - https://europepmc.org/article/MED/29152158
+L2  - http://dspace.library.uu.nl/handle/1874/361108
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5678372
+L2  - https://psycnet.apa.org/doi/10.1080/20008198.2017.1375339
+L2  - https://www.tandfonline.com/doi/full/10.1080/20008198.2017.1375339
 L1  - https://tandfonline.com/doi/pdf/10.1080/20008198.2017.1375339
 PB  - Co-Action Publishing
 PY  - 2017
@@ -3082,16 +3145,19 @@ KW  - Neighbourhood effects
 KW  - Parental characteristics
 KW  - Schools
 KW  - Systematic review
-L2  - https://rd.springer.com/article/10.1007/s10901-015-9460-7
-L1  - https://repository.tudelft.nl/islandora/object/uuid%3Afb869b9e-4de1-4eda-8da1-61053d7b7063/datastream/OBJ/download
-L2  - http://resolver.tudelft.nl/uuid:fb869b9e-4de1-4eda-8da1-61053d7b7063
-L1  - https://link.springer.com/content/pdf/10.1007%2Fs10901-015-9460-7.pdf
-L2  - https://core.ac.uk/display/79324876
-L2  - https://link.springer.com/article/10.1007/s10901-015-9460-7
-L2  - https://repository.tudelft.nl/islandora/object/uuid%3Afb869b9e-4de1-4eda-8da1-61053d7b7063
 L2  - https://pubmed.ncbi.nlm.nih.gov/29355196/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Atudelft.nl%3Auuid%3Ae0653ebe-91f7-421f-b6f7-b4fcd652d6ba
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs10901-015-9460-7.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748572
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/29355196
+L1  - https://repository.tudelft.nl/islandora/object/uuid%3Afb869b9e-4de1-4eda-8da1-61053d7b7063/datastream/OBJ/download
+L2  - http://repository.tudelft.nl/assets/uuid:fb869b9e-4de1-4eda-8da1-61053d7b7063/Nieuwenhuis_2015.pdf
 L2  - https://europepmc.org/article/MED/29355196
+L2  - https://repository.tudelft.nl/islandora/object/uuid%3Afb869b9e-4de1-4eda-8da1-61053d7b7063
+L2  - https://core.ac.uk/display/79324876
+L2  - https://link.springer.com/article/10.1007/s10901-015-9460-7/fulltext.html
+L2  - http://resolver.tudelft.nl/uuid:e0653ebe-91f7-421f-b6f7-b4fcd652d6ba
+L2  - https://link.springer.com/article/10.1007/s10901-015-9460-7
 PB  - Springer Netherlands
 PY  - 2015
 SN  - 15737772
@@ -3103,7 +3169,7 @@ VL  - 31
 ER  - 
 TY  - JOUR
 AB  - Abstract Background Decrease in blood pressure (BP) is the major goal of adrenalectomy for primary aldosteronism. Nevertheless, the optimal timing to assess these outcomes and the needed duration of follow-up are uncertain. We systematically reviewed the literature regarding trends in BP-related outcomes during follow-up after adrenalectomy. Methods A systematic literature search of medical literature from PubMed, Embase and the Cochrane Library regarding BP-related outcomes (i.e. cure of hypertension rates, BP and antihypertensives) was performed. The Quality In Prognosis Studies risk of bias tool was used. Results Of the 2057 identified records, 13 articles met the inclusion criteria. Overall study quality was low. In multiple studies, the biggest decrease in BP was shown within the first month(s) after adrenalectomy and afterwards BP often remained stable during long-term follow-up. Conclusions Based on the available studies one might suggest that long follow-up is unnecessary, since outcomes seem to stabilize within the first months.
-AU  - Suurd, Diederik P.D.
+AU  - Suurd, Diederik P. D.
 AU  - Vorselaars, Wessel M. C. M.
 AU  - van Beek, Dirk-Jan
 AU  - Spiering, Wilko
@@ -3122,8 +3188,9 @@ KW  - Blood pressure
 KW  - Follow-up
 KW  - Hypertension
 KW  - Primary aldosteronism
-L2  - https://www.sciencedirect.com/science/article/pii/S0002961020307819
 L2  - https://pubmed.ncbi.nlm.nih.gov/33298320
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0002961020307819
+L2  - https://www.sciencedirect.com/science/article/pii/S0002961020307819
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/33298320
 PB  - Elsevier Inc.
 PY  - 2020
@@ -3155,13 +3222,13 @@ DO  - 10.1371/journal.pone.0086394
 ID  - 107-910-977-697-204
 IS  - 1
 JF  - PloS one
-L2  - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086394
-L2  - https://europepmc.org/articles/PMC3895031
+L2  - https://pubmed.ncbi.nlm.nih.gov/24466071/
+L2  - http://europepmc.org/articles/PMC3895031
 L2  - https://paperity.org/p/60617451/the-effect-of-intra-arterial-angiotensin-ii-on-the-hepatic-tumor-to-non-tumor-blood-flow
-L2  - https://dx.plos.org/10.1371/journal.pone.0086394
-L2  - https://www.researchgate.net/profile/Andor_Van_den_hoven/publication/259920434_The_Effect_of_Intra-Arterial_Angiotensin_II_on_the_Hepatic_Tumor_to_Non-Tumor_Blood_Flow_Ratio_for_Radioembolization_A_Systematic_Review/links/0c96052ea455b26b81000000.pdf?disableCoverPage=true
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895031
+L2  - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086394
 L2  - http://ui.adsabs.harvard.edu/abs/2014PLoSO...986394V/abstract
+L2  - https://dx.plos.org/10.1371/journal.pone.0086394
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/24466071
 PB  - Public Library of Science
 PY  - 2014
 SN  - 19326203
@@ -3191,16 +3258,17 @@ KW  - Lipids
 KW  - Preterm birth
 KW  - Preterm delivery
 KW  - Triglycerides
-L2  - https://dspace.library.uu.nl/bitstream/1874/350299/1/Maternal.pdf
 L2  - https://researchinformation.amsterdamumc.org/en/publications/maternal-lipid-profile-and-the-relation-with-spontaneous-preterm-
-L2  - https://europepmc.org/abstract/MED/27807624
-L2  - http://dspace.library.uu.nl/handle/1874/350299
-L2  - https://cyberleninka.org/article/n/1446720
-L2  - https://paperity.org/p/78124699/maternal-lipid-profile-and-the-relation-with-spontaneous-preterm-delivery-a-systematic
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281656
-L2  - https://pubmed.ncbi.nlm.nih.gov/27807624/
 L2  - https://link.springer.com/article/10.1007/s00404-016-4216-5
 L1  - https://link.springer.com/content/pdf/10.1007%2Fs00404-016-4216-5.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281656
+L2  - https://paperity.org/p/78124699/maternal-lipid-profile-and-the-relation-with-spontaneous-preterm-delivery-a-systematic
+L2  - https://pubmed.ncbi.nlm.nih.gov/27807624/
+L2  - http://dspace.library.uu.nl/handle/1874/350299
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281656
+L2  - https://cyberleninka.org/article/n/1446720
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F350299
+L2  - https://europepmc.org/article/MED/27807624
 PB  - Springer Verlag
 PY  - 2016
 SN  - 14320711
@@ -3219,9 +3287,8 @@ CY  - Netherlands
 DO  - 10.1016/j.edurev.2020.100352
 ID  - 111-137-868-258-025
 JF  - Educational Research Review
-L2  - https://www.sciencedirect.com/science/article/pii/S1747938X20302086
 L2  - https://www.sciencedirect.com/science/article/abs/pii/S1747938X20302086
-L2  - https://osf.io/xpkrc/?view_only=ef42279d766249ab888ecc45eee21848
+L2  - https://www.sciencedirect.com/science/article/pii/S1747938X20302086
 PB  - Elsevier BV
 PY  - 2020
 SN  - 1747938x
@@ -3252,11 +3319,13 @@ KW  - Type 2 diabetes
 KW  - animal model
 KW  - meta-Analysis
 L2  - http://dspace.library.uu.nl/handle/1874/396353
-L2  - https://pubmed.ncbi.nlm.nih.gov/32360835/
-L2  - https://europepmc.org/article/MED/32360835
 L2  - https://repository.ubn.ru.nl/handle/2066/220893
-L2  - https://www.sciencedirect.com/science/article/pii/S0014299920302454
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0014299920302454
+L2  - https://pubmed.ncbi.nlm.nih.gov/32360835/
+L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F396353
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/32360835
+L2  - https://europepmc.org/article/MED/32360835
+L2  - https://www.sciencedirect.com/science/article/pii/S0014299920302454
 PB  - Elsevier
 PY  - 2020
 SN  - 18790712
@@ -3292,11 +3361,12 @@ KW  - patient monitoring
 KW  - systematic review
 KW  - vital signs
 KW  - wearable wireless device
-L2  - http://europepmc.org/article/MED/32469323
+L2  - https://dx.doi.org/10.2196/18636
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351263
 L2  - https://pubmed.ncbi.nlm.nih.gov/32469323/
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/32469323
-L2  - https://www.jmir.org/2020/6/e18636/
-L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351263
+L2  - https://www.jmir.org/2020/6/e18636
+L2  - http://europepmc.org/article/MED/32469323
+L2  - https://doaj.org/article/1c4a8faa80a245aaa05ce5005b226b6c
 PB  - Journal of medical Internet Research
 PY  - 2020
 SN  - 14388871
@@ -3326,13 +3396,13 @@ JF  - European radiology
 KW  - Magnetic resonance imaging
 KW  - Ovarian neoplasms
 KW  - Systematic review
-L2  - http://dspace.library.uu.nl/handle/1874/392538
-L2  - https://www.narcis.nl/publication/RecordID/oai%3Adspace.library.uu.nl%3A1874%2F392538
-L2  - https://link.springer.com/article/10.1007/s00330-019-06420-4
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/31529256
+L2  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957553
 L2  - https://pubmed.ncbi.nlm.nih.gov/31529256/
-L2  - https://europepmc.org/article/MED/31529256
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/31529256
+L2  - http://dspace.library.uu.nl/handle/1874/392538
 L1  - https://link.springer.com/content/pdf/10.1007/s00330-019-06420-4.pdf
+L2  - https://europepmc.org/article/MED/31529256
+L2  - https://link.springer.com/article/10.1007/s00330-019-06420-4
 PB  - Springer Verlag
 PY  - 2019
 SN  - 14321084
@@ -3355,21 +3425,20 @@ DO  - 10.1371/journal.pone.0144626
 ID  - 124-199-562-183-783
 IS  - 12
 JF  - PloS one
-L2  - https://dspace.library.uu.nl/bitstream/1874/332793/1/Wards.pdf
+L2  - https://dx.plos.org/10.1371/journal.pone.0144626
+L2  - http://ui.adsabs.harvard.edu/abs/2015PLoSO..1044626V/abstract
+L2  - https://pubmed.ncbi.nlm.nih.gov/26658343/
+L2  - http://dspace.library.uu.nl/handle/1874/332793
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684230/
+L2  - https://europepmc.org/article/MED/26658343
 L2  - https://core.ac.uk/display/150032266
 L2  - https://paperity.org/p/74748243/non-invasive-continuous-respiratory-monitoring-on-general-hospital-wards-a-systematic
-L2  - http://ui.adsabs.harvard.edu/abs/2015PLoSO..1044626V/abstract
-L2  - http://dspace.library.uu.nl/handle/1874/332793
-L2  - https://pubmed.ncbi.nlm.nih.gov/26658343/
-L2  - http://europepmc.org/articles/PMC4684230
 L2  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144626
-L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684230/
-L2  - https://dx.plos.org/10.1371/journal.pone.0144626
 PB  - Public Library of Science
 PY  - 2015
 SN  - 19326203
 SP  - e0144626
-TI  - Non-Invasive Continuous Respiratory Monitoring on General Hospital Wards : A Systematic Review
+TI  - Non-Invasive Continuous Respiratory Monitoring on General Hospital Wards: A Systematic Review.
 UR  - https://lens.org/124-199-562-183-783
 VL  - 10
 ER  - 
@@ -3386,11 +3455,12 @@ JF  - Psychiatry research
 KW  - Emdr
 KW  - Internet
 KW  - Ptsd
+L2  - https://www.ncbi.nlm.nih.gov/pubmed/32905864
+L2  - https://www.rug.nl/research/portal/publications/ptsd-treatment-in-times-of-covid19(705f4423-43bd-42e2-91e8-d17d37f31544).html
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7458053
 L2  - https://www.narcis.nl/publication/RecordID/oai%3Apure.rug.nl%3Apublications%2F705f4423-43bd-42e2-91e8-d17d37f31544
 L2  - https://www.sciencedirect.com/science/article/pii/S0165178120314591
-L2  - https://www.rug.nl/research/portal/publications/ptsd-treatment-in-times-of-covid19(705f4423-43bd-42e2-91e8-d17d37f31544).html
-L2  - https://www.ncbi.nlm.nih.gov/pubmed/32905864
-L2  - https://covid19.elsevierpure.com/en/publications/ptsd-treatment-in-times-of-covid-19-a-systematic-review-of-the-ef
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0165178120314591
 PB  - Elsevier Ireland Ltd
 PY  - 2020
 SN  - 18727123
@@ -3428,8 +3498,9 @@ KW  - Prediction model
 KW  - Predictive performance
 KW  - Systematic review
 L2  - https://www.ncbi.nlm.nih.gov/pubmed/32240769
-L2  - https://pubmed.ncbi.nlm.nih.gov/32240769/
 L2  - https://www.sciencedirect.com/science/article/pii/S089543562030072X
+L2  - https://pubmed.ncbi.nlm.nih.gov/32240769/
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/32240769
 PB  - Elsevier USA
 PY  - 2020
 SN  - 18785921
