@@ -9,7 +9,6 @@ A collection of documentation highlighting quirks around the file formatting for
   * [Search Engines](#search-engines)
   * [Systematic Review Software](#systematic-review-software)
 * [Contributing](#contributing)
-* [Credits](#credits)
 * [License](#license)
 
 ## Introduction
@@ -86,9 +85,6 @@ Below, most commonly used search engines are listed.
 
 ## Contributing
 Details are described in the [contributing guide](https://github.com/asreview/citation-file-formatting/blob/main/CONTRIBUTING.md).
-
-## Credits
-//Include a section for credits in order to highlight and link to the authors of your project.//
 
 ## License
 //Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!//
