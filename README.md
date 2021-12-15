@@ -8,9 +8,6 @@ A collection of documentation highlighting quirks around the file formatting for
   * [Citation and Reference Managers](#citation-and-reference-managers)
   * [Search Engines](#search-engines)
   * [Systematic Review Software](#systematic-review-software)
-* [Compatibility](#compatibility)
-  * [Supported Formats Per Software](#supported-formats-per-software)
-  * [Systematic Review Workflow (Example)](#systematic-review-workflow-(example))
 * [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
@@ -86,47 +83,6 @@ Below, most commonly used search engines are listed.
 - [Eppi-Reviewer](http://eppi.ioe.ac.uk/cms/Default.aspx?alias=eppi.ioe.ac.uk/cms/er4)
 - [Rayyan](https://www.rayyan.ai)
 - [RobotReviewer](https://www.robotreviewer.net)
-
-Describe the relations between formats and software.
-Describe open/closed source?
-
-### Compatibility
-Below, the software and tools have been described from the user's perspective, namely concerning the whole workflow of systematic review. This workflow usually consists of using multiple solutions and tools which have to work together but often do not or do barely so. The compatibility matrices should give you a better idea what works and what doesn't.
-
-#### Supported Formats Per Software
-Below, you can find a table outlining import/export capabilities of previously described software. Namely, different file formats commonly used within the field of scientific referencing are described.
-
-Guide for using the table:
-* Search for the software (e.g **ASReview**) you are interested in;
-* Follow the line, until you find the file format(e.g **.ris**) you are interested in;
-* Within the file format field, *Import from ...* is indicated on the left side, *Export to ...* on the right side;
-* :green_square: indicates success and :red_square: indicates failure;
-
-> Example: :green_square::red_square:
-> 
-> Meaning: Software can import from but not export to the given file format.
-
- | Software                | **.ris**  | **.tsv** | **.csv** | **.xlsx**|
- | --- | --- | --- | --- | --- |
- |                         |           |          |          |          |
- | **ASReview**\*          | :red_square: | :green_square: | :green_square: | :green_square: |
- | **Abstrackr**           | :green_square::red_square:   | :green_square::green_square: | :green_square::red_square:   | :green_square::red_square:   |
- | **Covidence**\*         | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
- | **Distiller**           | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
- |**EPPI-reviewer**        | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
- | **Rayyan**              | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
- |**Robotreviewer**        | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
- |**Swift Active Screener**| :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
- |**Sysrev**               | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
- |**SR accelerator**       | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: | :green_square::green_square: |
-
-#### Systematic Review Workflow (Example)
-Below, an example workflow pipeline has been described from the perspective of ASRevie
-
- | Input From ... | >   | >   | >   | >    | ASReview | >   | >   | >   | >    | Output To ...|
- |                | CSV | RIS | TSV | XLSX |          | CSV | RIS | TSV | XLSX |              |
- | --- | --- | --- | --- | ---  | --- | --- | --- | --- | ---  | --- |
- | Endnote        |:green_square:|:green_square:|:green_square:|:green_square:|:gray_circle:|:green_square:|:gray_square:|:green_square:|:green_square:| Endnote |
 
 ## Contributing
 Details are described in the [contributing guide](https://github.com/asreview/citation-file-formatting/blob/main/CONTRIBUTING.md).
