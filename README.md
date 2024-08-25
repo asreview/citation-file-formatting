@@ -67,6 +67,8 @@ Below, most commonly used search engines are listed.
 - [Google Scholar](https://scholar.google.com)
 - [Google Scholar Button for Chrome](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn)
 - [ERIC Ovid®](https://www.wolterskluwer.com/en/solutions/ovid/85)
+- [MDPI](https://www.mdpi.com)
+- [OpenAlex](https://openalex.org)
 - [Psycinfo Ovid®](https://www.wolterskluwer.com/en/solutions/ovid/139)
 - [Pubmed](https://pubmed.ncbi.nlm.nih.gov)
 - [ResearchGate](https://researcgate.net)
