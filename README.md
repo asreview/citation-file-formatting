@@ -30,7 +30,7 @@ A comma-separated values (CSV) file is a delimited text file that uses a comma t
 Learn more about [CSV at Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values).
 
 #### RIS
-RIS is a standardized tag format developed by Research Information Systems, Incorporated (the format name refers to the company) to enable citation programs to exchange data. The RIS file format — two letters, two spaces and a hyphen — is a tagged format for expressing bibliographic citations. According to the specifications, the lines must end with the ASCII carriage return and line feed characters. Multiple citation records can be present in a single RIS file. A record ends with an "end record" tag ER - with no additional blank lines between records.
+RIS is a standardized tag format developed by Research Information Systems, Incorporated (the format name refers to the company) to enable citation programs to exchange data. The RIS file format — two letters, two spaces and a hyphen — is a tagged format for expressing bibliographic citations. According to the specifications, the lines must end with the ASCII carriage return and line feed characters. Multiple citation records can be present in a single RIS file. A record ends with an "end record" tag ER - with no additional blank lines between records. We also included a Pubmed RIS file, which is a Pubmed format that has a high resemblance with RIS files.  
 
 *The RIS file format is standardized but sometimes improperly implemented.*
 
