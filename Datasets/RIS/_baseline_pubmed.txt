@@ -1,0 +1,751 @@
+PMID- 39689851
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241217
+LR  - 20250104
+IS  - 1744-957X (Electronic)
+IS  - 1744-9561 (Print)
+IS  - 1744-9561 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2024 Dec
+TI  - Dinosaur palaeoneurology: an evolving science.
+PG  - 20240472
+LID - 10.1098/rsbl.2024.0472 [doi]
+LID - 20240472
+AB  - Our fascination with dinosaur brains and their capabilities essentially began 
+      with the first dinosaur discovery. The history of this study is a useful 
+      reflection of palaeoneurology as a whole and its relationship to a more inclusive 
+      evolutionary neuroscience. I argue that this relationship is imbued with high 
+      heuristic potential, but one whose realization requires overcoming certain 
+      constraints. These constraints include the need for a stable phylogenetic 
+      framework, methods for efficient and precise endocast construction, and fossil 
+      researchers who are steeped in a neuroscience perspective. The progress that has 
+      already been made in these areas sets the stage for a more mature 
+      palaeoneurology-not only one capable of being informed by neuroscience 
+      discoveries but one that drives such discoveries. I draw from work on the size, 
+      shape, behavioural correlates and developmental role of the dinosaur brain to 
+      outline current advances in dinosaur palaeoneurology. My examples largely are 
+      taken from theropods and centre on questions related to the origin of birds and 
+      their unique locomotory capabilities. The hope, however, is that these exemplify 
+      the potential for study in other dinosaur groups, and for utilizing the 
+      dinosaur-bird lineage as a parallel model on a par with mammals for studying 
+      encephalization.
+FAU - Balanoff, Amy M
+AU  - Balanoff AM
+AUID- ORCID: 0000-0003-4030-3818
+AD  - Center for Functional Anatomy and Evolution, Johns Hopkins University School of 
+      Medicine, Baltimore, MD, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20241218
+PL  - England
+TA  - Biol Lett
+JT  - Biology letters
+JID - 101247722
+SB  - IM
+MH  - Animals
+MH  - *Biological Evolution
+MH  - Birds/physiology/anatomy & histology
+MH  - Brain/physiology/anatomy & histology
+MH  - *Dinosaurs/anatomy & histology/physiology
+MH  - *Fossils/anatomy & histology
+MH  - Neurosciences/methods
+MH  - *Paleontology/methods
+MH  - Phylogeny
+PMC - PMC11651910
+OTO - NOTNLM
+OT  - Dinosauria
+OT  - endocasts
+OT  - evolutionary neuroscience
+OT  - neuroanatomy
+COIS- I declare I have no competing interests.
+EDAT- 2024/12/18 00:22
+MHDA- 2024/12/18 00:23
+PMCR- 2024/12/18
+CRDT- 2024/12/17 19:13
+PHST- 2024/12/18 00:23 [medline]
+PHST- 2024/12/18 00:22 [pubmed]
+PHST- 2024/12/17 19:13 [entrez]
+PHST- 2024/12/18 00:00 [pmc-release]
+AID - rsbl20240472 [pii]
+AID - 10.1098/rsbl.2024.0472 [doi]
+PST - ppublish
+SO  - Biol Lett. 2024 Dec;20(12):20240472. doi: 10.1098/rsbl.2024.0472. Epub 2024 Dec 
+      18.
+
+PMID- 39809325
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250114
+LR  - 20250129
+IS  - 1744-957X (Electronic)
+IS  - 1744-9561 (Print)
+IS  - 1744-9561 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2025 Jan
+TI  - Reconstructing dinosaur locomotion.
+PG  - 20240441
+LID - 10.1098/rsbl.2024.0441 [doi]
+LID - 20240441
+AB  - Dinosaur locomotor biomechanics are of major interest. Locomotion of an animal 
+      affects many, if not most, aspects of life reconstruction, including behaviour, 
+      performance, ecology and appearance. Yet locomotion is one aspect of non-avian 
+      dinosaurs that we cannot directly observe. To shed light on how dinosaurs moved, 
+      we must draw from multiple sources of evidence. Extant taxa provide the basic 
+      principles of locomotion, bracket soft-tissue reconstructions and provide 
+      validation data for methods and hypotheses applied to dinosaurs. The skeletal 
+      evidence itself can be used directly to reconstruct posture, range of motion and 
+      mass (segment and whole-body). Building on skeletal reconstructions, 
+      musculoskeletal models inform muscle function and form the basis of simulations 
+      to test hypotheses of locomotor performance. Finally, fossilized footprints are 
+      our only direct record of motion and can provide important snapshots of extinct 
+      animals, shedding light on speed, gait and posture. Building confident 
+      reconstructions of dinosaur locomotion requires evidence from all four sources of 
+      information. This review explores recent work in these areas, with a 
+      methodological focus.
+FAU - Falkingham, Peter L
+AU  - Falkingham PL
+AUID- ORCID: 0000-0003-1856-8377
+AD  - School of Biological and Environmental Sciences, Liverpool John Moores 
+      University, Liverpool, UK.
+LA  - eng
+GR  - UK Research and Innovation/
+PT  - Journal Article
+PT  - Review
+DEP - 20250115
+PL  - England
+TA  - Biol Lett
+JT  - Biology letters
+JID - 101247722
+SB  - IM
+MH  - *Dinosaurs/physiology/anatomy & histology
+MH  - Animals
+MH  - *Locomotion/physiology
+MH  - *Fossils
+MH  - Biomechanical Phenomena
+MH  - Gait/physiology
+MH  - Models, Biological
+PMC - PMC11732409
+OTO - NOTNLM
+OT  - biomechanics
+OT  - dinosaurs
+OT  - ichnology
+OT  - locomotion
+OT  - modelling
+COIS- I declare I have no competing interests.
+EDAT- 2025/01/15 00:20
+MHDA- 2025/01/15 00:21
+PMCR- 2025/01/15
+CRDT- 2025/01/14 19:13
+PHST- 2025/01/15 00:21 [medline]
+PHST- 2025/01/15 00:20 [pubmed]
+PHST- 2025/01/14 19:13 [entrez]
+PHST- 2025/01/15 00:00 [pmc-release]
+AID - rsbl20240441 [pii]
+AID - 10.1098/rsbl.2024.0441 [doi]
+PST - ppublish
+SO  - Biol Lett. 2025 Jan;21(1):20240441. doi: 10.1098/rsbl.2024.0441. Epub 2025 Jan 
+      15.
+
+PMID- 16822743
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061106
+LR  - 20181227
+IS  - 0962-8452 (Print)
+IS  - 1471-2954 (Electronic)
+IS  - 0962-8452 (Linking)
+VI  - 273
+IP  - 1596
+DP  - 2006 Aug 7
+TI  - Dinosaur biomechanics.
+PG  - 1849-55
+AB  - Biomechanics has made large contributions to dinosaur biology. It has enabled us 
+      to estimate both the speeds at which dinosaurs generally moved and the maximum 
+      speeds of which they may have been capable. It has told us about the range of 
+      postures they could have adopted, for locomotion and for feeding, and about the 
+      problems of blood circulation in sauropods with very long necks. It has made it 
+      possible to calculate the bite forces of predators such as Tyrannosaurus, and the 
+      stresses they imposed on its skull; and to work out the remarkable chewing 
+      mechanism of hadrosaurs. It has shown us how some dinosaurs may have produced 
+      sounds. It has enabled us to estimate the effectiveness of weapons such as the 
+      tail spines of Stegosaurus. In recent years, techniques such as computational 
+      tomography and finite element analysis, and advances in computer modelling, have 
+      brought new opportunities. Biomechanists should, however, be especially cautious 
+      in their work on animals known only as fossils. The lack of living specimens and 
+      even soft tissues oblige us to make many assumptions. It is important to be aware 
+      of the often wide ranges of uncertainty that result.
+FAU - Alexander, R McNeill
+AU  - Alexander RM
+AD  - Institute for Integrative and Comparative Biology, University of Leeds, Miall 
+      Building, Leeds LS2 9JT, UK. r.m.alexander@leeds.ac.uk
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Proc Biol Sci
+JT  - Proceedings. Biological sciences
+JID - 101245157
+SB  - IM
+MH  - Animals
+MH  - Biomechanical Phenomena/methods
+MH  - Body Weight
+MH  - Competitive Behavior
+MH  - Dinosaurs/anatomy & histology/*physiology
+MH  - Jaw/anatomy & histology/physiology
+MH  - Locomotion/physiology
+MH  - Neck/anatomy & histology/blood supply
+MH  - Posture
+MH  - Regional Blood Flow
+MH  - Vocalization, Animal
+PMC - PMC1634776
+EDAT- 2006/07/11 09:00
+MHDA- 2006/11/07 09:00
+PMCR- 2006/08/07
+CRDT- 2006/07/11 09:00
+PHST- 2006/07/11 09:00 [pubmed]
+PHST- 2006/11/07 09:00 [medline]
+PHST- 2006/07/11 09:00 [entrez]
+PHST- 2006/08/07 00:00 [pmc-release]
+AID - M513J254M55M5132 [pii]
+AID - rspb20063532 [pii]
+AID - 10.1098/rspb.2006.3532 [doi]
+PST - ppublish
+SO  - Proc Biol Sci. 2006 Aug 7;273(1596):1849-55. doi: 10.1098/rspb.2006.3532.
+
+PMID- 37706373
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231102
+LR  - 20231103
+IS  - 0974-5181 (Electronic)
+IS  - 0971-9784 (Print)
+IS  - 0971-9784 (Linking)
+VI  - 26
+IP  - 2
+DP  - 2023 Apr-Jun
+TI  - Is cardiac surgery threatening to go the dinosaur way?
+PG  - 119-121
+LID - 10.4103/aca.aca_17_23 [doi]
+FAU - Chakravarthy, Murali
+AU  - Chakravarthy M
+AD  - Department of Anesthesia, Surgical Critical Care and Pain Relief, Fortis 
+      Hospitals, Bangalore, Karnataka, India.
+LA  - eng
+PT  - Editorial
+PL  - India
+TA  - Ann Card Anaesth
+JT  - Annals of cardiac anaesthesia
+JID - 9815987
+SB  - IM
+MH  - Animals
+MH  - *Dinosaurs
+MH  - *Cardiac Surgical Procedures
+PMC - PMC10284475
+EDAT- 2023/09/14 06:42
+MHDA- 2023/09/14 06:43
+PMCR- 2023/04/01
+CRDT- 2023/09/14 05:52
+PHST- 2023/09/14 06:43 [medline]
+PHST- 2023/09/14 06:42 [pubmed]
+PHST- 2023/09/14 05:52 [entrez]
+PHST- 2023/04/01 00:00 [pmc-release]
+AID - AnnCardAnaesth_2023_26_2_119_373176 [pii]
+AID - ACA-26-119 [pii]
+AID - 10.4103/aca.aca_17_23 [doi]
+PST - ppublish
+SO  - Ann Card Anaesth. 2023 Apr-Jun;26(2):119-121. doi: 10.4103/aca.aca_17_23.
+
+PMID- 39660360
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241211
+LR  - 20241213
+IS  - 1744-957X (Electronic)
+IS  - 1744-9561 (Print)
+IS  - 1744-9561 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2024 Dec
+TI  - The spatiotemporal distribution of Mesozoic dinosaur diversity.
+PG  - 20240443
+LID - 10.1098/rsbl.2024.0443 [doi]
+LID - 20240443
+AB  - Much of our view on Mesozoic dinosaur diversity is obscured by biases in the 
+      fossil record. In particular, spatiotemporal sampling heterogeneity affects 
+      identification of the timing and geographical location of radiations, the 
+      recognition of the latitudinal diversity gradient, as well as interpretation of 
+      purported extinctions, faunal turnovers and their drivers, including the Early 
+      Jurassic Jenkyns Event and across the Jurassic/Cretaceous boundary. The current 
+      distribution of sampling means it is impossible to robustly determine whether 
+      these 'events' were globally synchronous and geologically instantaneous or 
+      spatiotemporally staggered. Accounting for sampling heterogeneity is also 
+      paramount to reconciling notable differences in results based on 
+      sampling-standardized dinosaur species richness versus reconstructions of 
+      diversification rates, particularly with regards to the lead-up to the 
+      Cretaceous/Paleogene mass extinction. Incorporation of a greater proportion of 
+      stratigraphically well-resolved dinosaurs into analyses is also imperative and 
+      must include the substantial Mesozoic radiation of birds. Given the relative 
+      rarity of temporally successive, well-sampled spatial windows, it remains 
+      possible that dinosaur species richness and diversification rate showed little 
+      change after the clade's initial radiation until the Cretaceous/Paleogene 
+      boundary. However, better understanding of underlying sampling, combined with a 
+      holistic approach to reconstructing dinosaur diversity and diversification, is an 
+      important step in testing this hypothesis.
+FAU - Mannion, Philip D
+AU  - Mannion PD
+AUID- ORCID: 0000-0002-9361-6941
+AD  - Department of Earth Sciences, University College London, London WC1E 6BT, UK.
+LA  - eng
+GR  - Royal Society/
+PT  - Journal Article
+PT  - Review
+DEP - 20241211
+PL  - England
+TA  - Biol Lett
+JT  - Biology letters
+JID - 101247722
+SB  - IM
+MH  - *Dinosaurs/classification/anatomy & histology
+MH  - Animals
+MH  - *Biodiversity
+MH  - *Fossils
+MH  - Extinction, Biological
+MH  - Biological Evolution
+MH  - Paleontology
+PMC - PMC11632528
+OTO - NOTNLM
+OT  - Dinosauria
+OT  - Mesozoic
+OT  - common cause hypothesis
+OT  - diversity
+OT  - extinction
+OT  - latitudinal diversity gradient
+COIS- I declare I have no competing interests.
+EDAT- 2024/12/11 06:24
+MHDA- 2024/12/11 06:25
+PMCR- 2024/12/11
+CRDT- 2024/12/11 04:43
+PHST- 2024/12/11 06:25 [medline]
+PHST- 2024/12/11 06:24 [pubmed]
+PHST- 2024/12/11 04:43 [entrez]
+PHST- 2024/12/11 00:00 [pmc-release]
+AID - rsbl20240443 [pii]
+AID - 10.1098/rsbl.2024.0443 [doi]
+PST - ppublish
+SO  - Biol Lett. 2024 Dec;20(12):20240443. doi: 10.1098/rsbl.2024.0443. Epub 2024 Dec 
+      11.
+
+PMID- 36122246
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220922
+LR  - 20240905
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 119
+IP  - 39
+DP  - 2022 Sep 27
+TI  - Low dinosaur biodiversity in central China 2 million years prior to the 
+      end-Cretaceous mass extinction.
+PG  - e2211234119
+LID - 10.1073/pnas.2211234119 [doi]
+LID - e2211234119
+AB  - Whether or not nonavian dinosaur biodiversity declined prior to the 
+      end-Cretaceous mass extinction remains controversial as the result of sampling 
+      biases in the fossil record, differences in the analytical approaches used, and 
+      the rarity of high-precision geochronological dating of dinosaur fossils. Using 
+      magnetostratigraphy, cyclostratigraphy, and biostratigraphy, we establish a 
+      high-resolution geochronological framework for the fossil-rich Late Cretaceous 
+      sedimentary sequence in the Shanyang Basin of central China. We have found only 
+      three dinosaurian eggshell taxa (Macroolithus yaotunensis, Elongatoolithus 
+      elongatus, and Stromatoolithus pinglingensis) representing two clades 
+      (Oviraptoridae and Hadrosauridae) in sediments deposited between ∼68.2 and ∼66.4 
+      million y ago, indicating sustained low dinosaur biodiversity, and that 
+      assessment is consistent with the known skeletal remains in the Shanyang and 
+      surrounding basins of central China. Along with the dinosaur eggshell records 
+      from eastern and southern China, we find a decline in dinosaur biodiversity from 
+      the Campanian to the Maastrichtian. Our results support a long-term decline in 
+      global dinosaur biodiversity prior to 66 million y ago, which likely set the 
+      stage for the end-Cretaceous nonavian dinosaur mass extinction.
+FAU - Han, Fei
+AU  - Han F
+AUID- ORCID: 0000-0002-9450-006X
+AD  - Paleomagnetism and Planetary Magnetism Laboratory, School of Geophysics and 
+      Geomatics, China University of Geosciences, Wuhan, Hubei 430074, China.
+FAU - Wang, Qiang
+AU  - Wang Q
+AUID- ORCID: 0000-0003-4881-521X
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+FAU - Wang, Huapei
+AU  - Wang H
+AUID- ORCID: 0000-0003-1676-3494
+AD  - Paleomagnetism and Planetary Magnetism Laboratory, School of Geophysics and 
+      Geomatics, China University of Geosciences, Wuhan, Hubei 430074, China.
+FAU - Zhu, Xufeng
+AU  - Zhu X
+AUID- ORCID: 0000-0001-9731-6615
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+AD  - College of Earth and Planetary Sciences, University of Chinese Academy of 
+      Sciences, Beijing 100049, China.
+FAU - Zhou, Xinying
+AU  - Zhou X
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+AD  - College of Earth and Planetary Sciences, University of Chinese Academy of 
+      Sciences, Beijing 100049, China.
+AD  - Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, 
+      Beijing 100044, China.
+FAU - Wang, Zhixiang
+AU  - Wang Z
+AD  - Department of Applied Geophysics, School of Geophysics and Geomatics, China 
+      University of Geosciences, Wuhan, Hubei 430074, China.
+FAU - Fang, Kaiyong
+AU  - Fang K
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+FAU - Stidham, Thomas A
+AU  - Stidham TA
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+AD  - College of Earth and Planetary Sciences, University of Chinese Academy of 
+      Sciences, Beijing 100049, China.
+AD  - Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, 
+      Beijing 100044, China.
+FAU - Wang, Wei
+AU  - Wang W
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+AD  - Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, 
+      Beijing 100044, China.
+AD  - State Key Laboratory of Lithospheric Evolution, Institute of Geology and 
+      Geophysics, Chinese Academy of Sciences, Beijing 100029, China.
+FAU - Wang, Xiaolin
+AU  - Wang X
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+AD  - College of Earth and Planetary Sciences, University of Chinese Academy of 
+      Sciences, Beijing 100049, China.
+AD  - Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, 
+      Beijing 100044, China.
+FAU - Li, Xiaoqiang
+AU  - Li X
+AD  - Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of 
+      Sciences, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese 
+      Academy of Sciences, Beijing 100044, China.
+AD  - College of Earth and Planetary Sciences, University of Chinese Academy of 
+      Sciences, Beijing 100049, China.
+AD  - Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, 
+      Beijing 100044, China.
+FAU - Qin, Huafeng
+AU  - Qin H
+AD  - State Key Laboratory of Lithospheric Evolution, Institute of Geology and 
+      Geophysics, Chinese Academy of Sciences, Beijing 100029, China.
+FAU - Fan, Longgang
+AU  - Fan L
+AD  - Chinese Academy of Sciences Key Laboratory of Earth and Planetary Physics, 
+      Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029, 
+      China.
+FAU - Wen, Chen
+AU  - Wen C
+AUID- ORCID: 0000-0003-3696-3696
+AD  - Paleomagnetism and Planetary Magnetism Laboratory, School of Geophysics and 
+      Geomatics, China University of Geosciences, Wuhan, Hubei 430074, China.
+FAU - Luo, Jianhong
+AU  - Luo J
+AD  - Paleomagnetism and Planetary Magnetism Laboratory, School of Geophysics and 
+      Geomatics, China University of Geosciences, Wuhan, Hubei 430074, China.
+FAU - Pan, Yongxin
+AU  - Pan Y
+AUID- ORCID: 0000-0002-4227-3061
+AD  - College of Earth and Planetary Sciences, University of Chinese Academy of 
+      Sciences, Beijing 100049, China.
+AD  - Chinese Academy of Sciences Key Laboratory of Earth and Planetary Physics, 
+      Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029, 
+      China.
+FAU - Deng, Chenglong
+AU  - Deng C
+AUID- ORCID: 0000-0003-1848-3170
+AD  - College of Earth and Planetary Sciences, University of Chinese Academy of 
+      Sciences, Beijing 100049, China.
+AD  - State Key Laboratory of Lithospheric Evolution, Institute of Geology and 
+      Geophysics, Chinese Academy of Sciences, Beijing 100029, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220919
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+SB  - IM
+MH  - Animals
+MH  - *Biodiversity
+MH  - China
+MH  - *Dinosaurs/classification
+MH  - *Extinction, Biological
+MH  - *Fossils
+PMC - PMC9522366
+OTO - NOTNLM
+OT  - dinosaur eggshells
+OT  - east Asia
+OT  - end-Cretaceous mass extinction
+OT  - magnetostratigraphy
+COIS- The authors declare no competing interest.
+EDAT- 2022/09/20 06:00
+MHDA- 2022/09/23 06:00
+PMCR- 2023/03/19
+CRDT- 2022/09/19 15:23
+PHST- 2022/09/19 15:23 [entrez]
+PHST- 2022/09/20 06:00 [pubmed]
+PHST- 2022/09/23 06:00 [medline]
+PHST- 2023/03/19 00:00 [pmc-release]
+AID - 202211234 [pii]
+AID - 10.1073/pnas.2211234119 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2022 Sep 27;119(39):e2211234119. doi: 
+      10.1073/pnas.2211234119. Epub 2022 Sep 19.
+
+PMID- 39471833
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241029
+LR  - 20241103
+IS  - 1744-957X (Electronic)
+IS  - 1744-9561 (Print)
+IS  - 1744-9561 (Linking)
+VI  - 20
+IP  - 10
+DP  - 2024 Oct
+TI  - A brief review of non-avian dinosaur biogeography: state-of-the-art and 
+      prospectus.
+PG  - 20240429
+LID - 10.1098/rsbl.2024.0429 [doi]
+LID - 20240429
+AB  - Dinosaurs potentially originated in the mid-palaeolatitudes of Gondwana 245-235 
+      million years ago (Ma) and may have been restricted to cooler, humid areas by 
+      low-latitude arid zones until climatic amelioration made northern dispersals 
+      feasible ca 215 Ma. However, this scenario is challenged by new Carnian Laurasian 
+      fossils and evidence that even the earliest dinosaurs had adaptations for arid 
+      conditions. After becoming globally distributed in the Early-Middle Jurassic 
+      (200-160 Ma), dinosaurs experienced vicariance driven by Pangaean fragmentation. 
+      Regional extinctions and trans-oceanic dispersals also played a role, and the 
+      formation of ephemeral land connections meant that older vicariance patterns were 
+      repeatedly overprinted by younger ones, creating a reticulate biogeographic 
+      history. Palaeoclimates shaped dispersal barriers and corridors, including 
+      filters that had differential effects on different types of dinosaurs. 
+      Dinosaurian biogeographic research faces many challenges, not the least of which 
+      is the patchiness of the fossil record. However, new fossils, extensive 
+      databasing and improved analytical methods help distinguish signal from noise and 
+      generate fresh perspectives. In the future, developing techniques for quantifying 
+      and ameliorating sampling biases and modelling the dispersal capacities of 
+      dinosaurs are likely to be two of the key components in our modern research 
+      programme.
+FAU - Upchurch, Paul
+AU  - Upchurch P
+AUID- ORCID: 0000-0002-8823-4164
+AD  - Department of Earth Sciences, University College London, Gower Street, London 
+      WC1E 6BT, UK.
+FAU - Chiarenza, Alfio Alessandro
+AU  - Chiarenza AA
+AUID- ORCID: 0000-0001-5525-6730
+AD  - Department of Earth Sciences, University College London, Gower Street, London 
+      WC1E 6BT, UK.
+LA  - eng
+GR  - Royal Society/
+PT  - Journal Article
+PT  - Review
+DEP - 20241030
+PL  - England
+TA  - Biol Lett
+JT  - Biology letters
+JID - 101247722
+SB  - IM
+MH  - *Dinosaurs/anatomy & histology
+MH  - Animals
+MH  - *Fossils
+MH  - Biological Evolution
+MH  - Phylogeography
+MH  - Animal Distribution
+PMC - PMC11529633
+OTO - NOTNLM
+OT  - Dinosauria
+OT  - Mesozoic
+OT  - Pangaea
+OT  - biogeography
+OT  - dispersal
+OT  - vicariance
+COIS- We declare we have no competing interests.
+EDAT- 2024/10/30 00:22
+MHDA- 2024/10/30 00:23
+PMCR- 2024/10/30
+CRDT- 2024/10/29 20:12
+PHST- 2024/10/30 00:23 [medline]
+PHST- 2024/10/30 00:22 [pubmed]
+PHST- 2024/10/29 20:12 [entrez]
+PHST- 2024/10/30 00:00 [pmc-release]
+AID - rsbl20240429 [pii]
+AID - 10.1098/rsbl.2024.0429 [doi]
+PST - ppublish
+SO  - Biol Lett. 2024 Oct;20(10):20240429. doi: 10.1098/rsbl.2024.0429. Epub 2024 Oct 
+      30.
+
+PMID- 34699795
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220408
+LR  - 20220408
+IS  - 1879-0445 (Electronic)
+IS  - 0960-9822 (Linking)
+VI  - 31
+IP  - 20
+DP  - 2021 Oct 25
+TI  - Spinosaurus.
+PG  - R1369-R1371
+LID - S0960-9822(21)01212-4 [pii]
+LID - 10.1016/j.cub.2021.09.002 [doi]
+AB  - Steve Brusatte introduces Spinosaurus, the largest known predatory dinosaur.
+CI  - Copyright © 2021 Elsevier Inc. All rights reserved.
+FAU - Brusatte, Stephen L
+AU  - Brusatte SL
+AD  - School of GeoSciences, University of Edinburgh, Edinburgh EH9 3FE, UK. Electronic 
+      address: Stephen.Brusatte@ed.ac.uk.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Curr Biol
+JT  - Current biology : CB
+JID - 9107782
+SB  - IM
+MH  - Animals
+MH  - *Dinosaurs/anatomy & histology
+MH  - *Fossils
+MH  - Predatory Behavior
+EDAT- 2021/10/27 06:00
+MHDA- 2022/04/09 06:00
+CRDT- 2021/10/26 20:12
+PHST- 2021/10/26 20:12 [entrez]
+PHST- 2021/10/27 06:00 [pubmed]
+PHST- 2022/04/09 06:00 [medline]
+AID - S0960-9822(21)01212-4 [pii]
+AID - 10.1016/j.cub.2021.09.002 [doi]
+PST - ppublish
+SO  - Curr Biol. 2021 Oct 25;31(20):R1369-R1371. doi: 10.1016/j.cub.2021.09.002.
+
+PMID- 26079078
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20161230
+IS  - 1879-0445 (Electronic)
+IS  - 0960-9822 (Linking)
+VI  - 25
+IP  - 12
+DP  - 2015 Jun 15
+TI  - Evolution: convergence in dinosaur crests.
+PG  - R494-6
+LID - S0960-9822(15)00502-3 [pii]
+LID - 10.1016/j.cub.2015.04.051 [doi]
+AB  - The horned, ceratopsid dinosaurs can be easily split into two major groups based 
+      on their cranial structures, but now a new discovery shows that at least one 
+      genus 'switched sides' and convergently evolved the form of the other clade.
+CI  - Copyright © 2015 Elsevier Ltd. All rights reserved.
+FAU - Hone, David W E
+AU  - Hone DW
+AD  - Queen Mary University of London, Mile End Road, London, E1 4NS. Electronic 
+      address: d.hone@qmul.ac.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Curr Biol
+JT  - Current biology : CB
+JID - 9107782
+SB  - IM
+MH  - Animals
+MH  - *Biological Evolution
+MH  - Dinosaurs/*anatomy & histology
+MH  - Skull/anatomy & histology
+EDAT- 2015/06/17 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2015/06/17 06:00
+PHST- 2015/06/17 06:00 [entrez]
+PHST- 2015/06/17 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - S0960-9822(15)00502-3 [pii]
+AID - 10.1016/j.cub.2015.04.051 [doi]
+PST - ppublish
+SO  - Curr Biol. 2015 Jun 15;25(12):R494-6. doi: 10.1016/j.cub.2015.04.051.
+
+PMID- 36693306
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230126
+LR  - 20230207
+IS  - 1879-0445 (Electronic)
+IS  - 0960-9822 (Linking)
+VI  - 33
+IP  - 2
+DP  - 2023 Jan 23
+TI  - Sauropods.
+PG  - R52-R58
+LID - S0960-9822(22)01960-1 [pii]
+LID - 10.1016/j.cub.2022.12.024 [doi]
+AB  - This article begins as many others on sauropods before it: "Sauropod dinosaurs 
+      were the largest animals to ever walk the Earth, by far". The largest sauropods 
+      were easily four times heavier than the largest land mammals (and the largest 
+      other dinosaur species, for that matter). The iconic body plan of sauropods is 
+      dominated by their very long neck, in some species exceeding 14 meters in length, 
+      provided with a relatively small head (Figure 1). The neck was mostly held 
+      horizontally or at a low angle. The massive but relatively short trunk was 
+      supported by four columnar legs, much like in an elephant. The bones in the fore 
+      foot of sauropods are oriented vertically, and some late forms even lost their 
+      finger bones, walking on their metacarpals (middle bones of the hand). The hind 
+      leg, which bore most of the weight, has a half-upright foot. The femur (thigh 
+      bone) was the largest bone in the skeleton, like in most other true land 
+      vertebrates (amniotes). The long neck was counterbalanced by the long tail, the 
+      base of which also functioned as the anchoring region of the giant muscles that 
+      pulled back the hind leg during walking.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Sander, P Martin
+AU  - Sander PM
+AD  - Dinosaur Institute, Natural History Museum of Los Angeles County, 900 Exposition 
+      Boulevard, Los Angeles, CA 90007, USA; Section Paleontology, Institute of 
+      Geosciences, University of Bonn, 53115 Bonn, Germany. Electronic address: 
+      paulmartinsander@gmail.com.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Curr Biol
+JT  - Current biology : CB
+JID - 9107782
+SB  - IM
+MH  - Animals
+MH  - *Fossils
+MH  - Bone and Bones
+MH  - *Dinosaurs/anatomy & histology
+MH  - Mammals
+COIS- Declaration of interests The author declares no competing interests.
+EDAT- 2023/01/25 06:00
+MHDA- 2023/01/27 06:00
+CRDT- 2023/01/24 18:16
+PHST- 2023/01/24 18:16 [entrez]
+PHST- 2023/01/25 06:00 [pubmed]
+PHST- 2023/01/27 06:00 [medline]
+AID - S0960-9822(22)01960-1 [pii]
+AID - 10.1016/j.cub.2022.12.024 [doi]
+PST - ppublish
+SO  - Curr Biol. 2023 Jan 23;33(2):R52-R58. doi: 10.1016/j.cub.2022.12.024.
